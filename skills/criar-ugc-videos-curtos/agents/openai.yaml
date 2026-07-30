@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criar UGC para videos curtos"
+  short_description: "Cria tres roteiros UGC de alta conversao"
+  default_prompt: "Use $criar-ugc-videos-curtos para criar tres videos de 8 segundos para este produto."
