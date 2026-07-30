@@ -8,6 +8,7 @@ publicitário.
 ```text
 .
 ├── produtos/
+│   ├── beleza-e-perfumaria/
 │   ├── casa-e-cozinha/
 │   ├── espiritualidade-e-artesanato/
 │   ├── limpeza/
@@ -41,7 +42,7 @@ houver uma descrição disponível, e utiliza somente as subpastas necessárias:
 
 ## Catálogo
 
-O acervo está dividido em 6 categorias, com 22 produtos. As duas pastas
+O acervo está dividido em 7 categorias, com 26 produtos. As duas pastas
 anteriores do kit de 5 shorts Arara Sport foram reunidas em um único produto,
 sem descarte dos arquivos de origem.
 
