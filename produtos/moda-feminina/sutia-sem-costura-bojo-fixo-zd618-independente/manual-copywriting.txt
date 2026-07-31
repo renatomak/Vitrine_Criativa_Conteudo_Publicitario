@@ -1,0 +1,38 @@
+# MANUAL ESTRATÉGICO DE COPYWRITING E PRODUÇÃO UGC (TIKTOK SHOP / REELS)
+
+## 1. OS 5 PILARES DE CONVERSÃO DE VÍDEO CURTO
+
+1. **Vender Transformação, não Características:**
+   - As pessoas não compram o produto pelas especificações técnicas, compram a melhor versão delas mesmas que o produto entrega (autoestima, alívio, praticidade, elogios).
+   - *Regra:* Toda copy deve responder à pergunta: "Que versão melhor do cliente este produto entrega?".
+
+2. **Ativar a Dor Primeiro, Mostrar o Produto Depois:**
+   - O cérebro só age perante o desconforto.
+   - *Regra:* Comece o vídeo descrevendo uma frustração ou situação desconfortável do dia a dia antes de apresentar o produto como alívio.
+
+3. **Especificidade Extrema:**
+   - Quem fala com todo mundo, não fala com ninguém.
+   - *Regra:* Descreva uma pessoa, idade ou situação de vida muito específica. Isso cria identificação imediata ("isso é pra mim").
+
+4. **Foco no Espectador ("Você"):**
+   - O espectador se importa apenas com a própria sobrevivência e bem-estar.
+   - *Regra:* Use "você" em pelo menos 70% da fala. Reduza o uso de "eu", "eu comprei" ou "eu amei".
+
+5. **Urgência Emocional:**
+   - Sem urgência, o cérebro adia a decisão e a venda morre nos últimos 5 segundos.
+   - *Regra:* Plante o risco do arrependimento futuro, escassez ou a permanência da dor caso a pessoa não aja agora.
+
+---
+
+## 2. REGRAS TÉCNICAS E DE FORMATAÇÃO
+
+1. **Cadência de Fala (8 Segundos):**
+   - Roteiros curtos e objetivos.
+   - A quantidade de palavras deve permitir uma leitura natural em exatos 8 segundos (entre 20 e 28 palavras por fala).
+
+2. **Geração de Imagens e Vídeos por IA (Google Flow / Master Studio):**
+   - **Regra Rígida:** NUNCA incluir mãos humanas nos prompts visuais para evitar artefatos, deformações de dedos ou erros de proporção da Inteligência Artificial.
+   - **Estética:** Usar sempre estúdio de luxo, iluminação quente/dourada ("golden hour"), composições minimalistas, iluminação focado em produto (macro) e fundo com desfoque bonito (bokeh).
+
+3. **Restrição de Caracteres para Títulos:**
+   - A descrição precisa do produto (usada como título) deve ter no MÁXIMO 80 caracteres contando espaços.

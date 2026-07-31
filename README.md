@@ -1,51 +1,78 @@
 # Vitrine Criativa — Conteúdo Publicitário
 
-Acervo de imagens, vídeos, descrições e referências para criação de conteúdo
-publicitário.
+Acervo de materiais para criação de conteúdo publicitário, organizado por
+categoria e produto.
 
-## Estrutura
+## Onde encontrar cada material
 
 ```text
 .
 ├── produtos/
-│   ├── beleza-e-perfumaria/
-│   ├── casa-e-cozinha/
-│   ├── espiritualidade-e-artesanato/
-│   ├── limpeza/
-│   ├── livros/
-│   ├── moda-feminina/
-│   └── moda-masculina/
-└── referencias/
-    ├── modelos/
-    └── unhas-artisticas-alongadas/
+│   └── categoria/
+│       └── nome-do-produto/
+│           ├── descricao-produto.txt
+│           ├── produto-01.webp
+│           ├── criativo-01.png
+│           ├── referencia-01.png
+│           ├── videos/       (somente quando houver vídeos)
+│           └── arquivos/     (somente para pacotes ZIP e fontes)
+├── referencias/
+│   ├── modelos/
+│   └── unhas-artisticas-alongadas/
+└── skills/
 ```
 
-Cada produto mantém `descricao-produto.txt` diretamente em sua raiz, quando
-houver uma descrição disponível, e utiliza somente as subpastas necessárias:
+As imagens ficam diretamente na pasta do produto. Não é necessário criar uma
+subpasta `imagens`.
 
-- `imagens/`: fotos de produto, criativos e capturas de referência;
-- `videos/`: vídeos prontos ou materiais para edição;
-- `textos/`: páginas e materiais textuais complementares;
-- `arquivos/`: pacotes compactados recebidos como fonte.
+## Como adicionar um produto
+
+1. Escolha a categoria em `produtos/`.
+2. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
+   com palavras separadas por hífen.
+3. Coloque as fotos, os criativos, as referências e a descrição diretamente
+   nessa pasta.
+4. Crie `videos/` ou `arquivos/` apenas se esses materiais existirem.
+
+Exemplo:
+
+```text
+produtos/
+└── moda-feminina/
+    └── nome-do-produto/
+        ├── descricao-produto.txt
+        ├── produto-01.webp
+        ├── produto-02.webp
+        ├── criativo-01.png
+        └── referencia-01.png
+```
 
 ## Padrão de nomes
 
-- Letras minúsculas, sem acentos e sem espaços.
-- Palavras separadas por hífen.
-- Fotos de catálogo: `produto-01.webp`, `produto-02.jpg`.
-- Peças geradas ou editadas: `criativo-01.png`.
-- Capturas e imagens auxiliares: `referencia-01.png`.
-- Sequências com significado mantêm a numeração e a descrição, como
+- Fotos do catálogo: `produto-01.webp`, `produto-02.jpg`.
+- Peças prontas ou geradas: `criativo-01.png`.
+- Imagens auxiliares: `referencia-01.png`.
+- Descrição principal: `descricao-produto.txt`.
+- Outros textos devem ter nomes curtos e claros, como `detalhes.txt` ou
+  `manual-copywriting.txt`.
+- Sequências descritivas existentes podem ser mantidas, por exemplo
   `01-visao-geral-pedra.jpeg`.
-- Descrições principais usam `descricao-produto.txt` na raiz da pasta do
-  produto.
 
-## Catálogo
+## Categorias atuais
 
-O acervo está dividido em 7 categorias, com 26 produtos. As duas pastas
-anteriores do kit de 5 shorts Arara Sport foram reunidas em um único produto,
-sem descarte dos arquivos de origem.
+- `beleza-e-perfumaria`
+- `casa-e-cozinha`
+- `espiritualidade-e-artesanato`
+- `limpeza`
+- `livros`
+- `moda-feminina`
+- `moda-masculina`
 
-As fotos de pessoas que estavam soltas na raiz ficam em
-`referencias/modelos/`. As imagens de unhas artísticas ficam em
-`referencias/unhas-artisticas-alongadas/`.
+Materiais que servem para vários produtos, como fotos de modelos e referências
+visuais gerais, devem ficar em `referencias/`.
+
+## Observação sobre descrições
+
+Alguns produtos ainda não possuem `descricao-produto.txt`. Isso não impede o
+uso das imagens, mas adicionar esse arquivo facilita buscas e a criação futura
+de anúncios.
