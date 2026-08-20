@@ -61,6 +61,7 @@ produtos/
 ## Categorias atuais
 
 - `beleza-e-perfumaria`
+- `brinquedos-e-hobbies`
 - `casa-e-cozinha`
 - `espiritualidade-e-artesanato`
 - `limpeza`
@@ -70,6 +71,10 @@ produtos/
 
 Materiais que servem para vários produtos, como fotos de modelos e referências
 visuais gerais, devem ficar em `referencias/`.
+
+Arquivos idênticos que precisam ser preservados para conferência ficam em uma
+subpasta `_duplicadas`, com nomes padronizados. Eles não devem permanecer
+misturados às imagens principais do produto.
 
 ## Observação sobre descrições
 

@@ -1,0 +1,56 @@
+VIDEO INTENT:
+Create an ultra-realistic POV TikTok Shop product video demonstrating the secure elastic fit of a navy-blue fitted sheet on a mattress. The result must be indistinguishable from a real vertical smartphone POV recording made at home, preserving the exact realism, texture, composition and fidelity of the reference image.
+
+REFERENCE IMAGE (MANDATORY):
+Use the attached image as the absolute and exclusive visual reference. Preserve the exact bed, mattress, fitted sheet, two pillowcases, hands, room, lighting, colors, camera position and composition shown in the reference. Do NOT rebuild, reinterpret, redesign, replace, mirror, crop or reframe any element.
+
+PRODUCT IDENTITY LOCK (CRITICAL):
+The navy-blue fitted sheet and the two pillowcases must remain IDENTICAL to the reference in color, fabric appearance, texture, weave, seams, stitching, proportions, folds and decorative pillowcase trim. The fitted sheet must remain visibly secured around the mattress by its elastic hem. It must never transform into a flat sheet, top sheet, bedspread, blanket, duvet or mattress cover. Do NOT stretch, compress, warp, inflate, melt, recolor, simplify or redesign the fabric.
+
+BED & ENVIRONMENT IDENTITY LOCK:
+The mattress, upholstered bed base, headboard, pillowcases, bedside furniture, lamp, plant, wall art, rug and background must remain completely unchanged and stationary. No object may appear, disappear, move, duplicate, bend, flicker or change shape.
+
+POV INTEGRITY LOCK (NO PERSON — HANDS ONLY):
+Strict first-person point-of-view. NO visible person: no body, torso, head, face, legs, feet, silhouette, reflection or human shadow. The only human presence allowed is exactly two feminine hands, both continuously visible from the first frame to the last. Never show a third hand, duplicated hand, disappearing hand or arms beyond the lower forearms. The hands must never switch sides, cross over each other or change their grip.
+
+HAND SKIN REALISM LOCK (EXTREME PRIORITY):
+Both hands must remain ultra-realistic and anatomically stable, with visible pores, fine lines, natural creases, subtle veins and consistent skin tone. No blur, smoothing, beauty filter, plastic skin or waxy texture. Each hand must always have exactly five fingers with correct joints, nail placement and natural proportions.
+
+HANDS APPEARANCE & ACCESSORIES:
+Feminine hands with short, well-maintained nails and natural nude polish. No rings, bracelets, watches or accessories. Preserve the exact hands and nail color from the reference image.
+
+CAMERA & COMPOSITION:
+Vertical 9:16 top-down POV angle. Camera completely locked and stable. No camera movement, handheld shake, zoom, pan, tilt, rotation, focus breathing, cropping or reframing. Preserve the exact original perspective and framing for the entire video.
+
+BACKGROUND & ENVIRONMENT:
+Realistic home bedroom exactly as shown in the reference, with warm-neutral decor and natural fabric texture. No new props, decorative elements, studio styling or background changes.
+
+LIGHTING:
+Preserve the same soft warm natural light from the reference image. Lighting must remain constant, with no flicker, exposure shift, moving shadows, flash or color-temperature changes.
+
+MOVEMENT LOGIC (MINIMAL MOTION TO PREVENT DEFORMATION):
+Both hands begin already holding the elastic hem in the exact positions shown in the reference. From seconds 0 to 2, the hands remain still. From seconds 2 to 4, both hands gently pull the elastic edge outward by no more than two centimeters, using one slow synchronized movement. From seconds 4 to 6, they slowly release the tension while keeping every fingertip in continuous contact with the fabric, allowing the elastic hem to return naturally to the same starting position. From seconds 6 to 8, both hands remain completely still. Perform the pull only once. No grip changes, finger repositioning, pinching, rubbing, tapping, repeated gestures or fast movement.
+
+FABRIC PHYSICS & TEXTURE REALISM:
+Show realistic micro-percale fabric texture, visible weave, subtle natural tension lines and physically accurate elastic recovery. Only the small section held by the hands may move. The rest of the fitted sheet stays tightly fitted and motionless. No liquid motion, rubbery fabric, excessive stretching, floating folds, texture crawling, morphing or AI artifacts.
+
+STYLE:
+Ultra-realistic documentary-level smartphone POV aesthetic, like an authentic TikTok Shop demonstration recorded at home. Natural and unpolished, but clear and high resolution. No CGI, illustration, commercial studio look or excessive post-processing.
+
+DIALOGO [VOZ FEMININA] [PORTUGUES BRASILEIRO]:
+“Seu lençol vive escapando durante a noite? Olha isso: o elástico abraça o colchão e deixa sua cama esticadinha, linda e arrumada!”
+
+VOICE DELIVERY:
+Natural Brazilian Portuguese female voice, lively, friendly and conversational, spoken as one continuous sentence. Clear human cadence, expressive emphasis on “Olha isso”, no robotic rhythm and no rushed ending. No visible speaker and no lip synchronization.
+
+ON-SCREEN TEXT:
+Do NOT generate text, captions, subtitles, logos or watermarks inside the video. Add “SEU LENÇOL SOLTA TODA NOITE?” later in the video editor.
+
+AUDIO HANDLING:
+Clean female speech with very soft natural bedroom ambience. Optional subtle fabric tension sound during the single pull. No music, sound effects, echo, robotic voice or background conversation.
+
+TECHNICAL CONSTRAINTS:
+Maximum length 8 seconds, vertical 9:16, 30 fps, high resolution, stable POV, consistent frame geometry and no temporal distortion.
+
+ANTI-BUG & ANATOMY LOCK:
+Exactly two hands for the entire video, exactly five fingers per hand, correct joints, stable wrists, no fused, melted, duplicated, shortened or elongated fingers. No extra limbs, no person appearing, no disappearing elements, no texture drift, no fabric-body merging, no object morphing and no frame-to-frame identity changes.
