@@ -1,0 +1,97 @@
+TEXTOS PARA INSERÇÃO MANUAL — CINCO VÍDEOS DO BATOM
+
+REGRA GERAL
+
+Os vídeos devem ser gerados no Veo 3.1 Lite sem qualquer texto, letra, legenda, emoji ou desenho. Aplicar os elementos abaixo somente depois da geração, em CapCut, Canva, Premiere ou outro editor.
+
+Formato: vertical 9:16
+Área segura: manter textos afastados das bordas superior e inferior e nunca cobrir produto, logotipo ou mãos.
+Fonte sugerida: Montserrat SemiBold, Poppins SemiBold ou similar.
+Cor principal: branco.
+Destaques: dourado suave ou rosa relacionado à tonalidade do vídeo.
+Contorno: sombra preta suave ou caixa semitransparente discreta.
+Animação: entrada curta por fade ou pop suave; saída por fade rápido.
+
+VÍDEO 1 — VERMELHO CEREJA
+
+0,4s–2,2s
+Texto: COR INTENSA
+Posição: canto superior esquerdo.
+Estilo: branco com destaque dourado na palavra INTENSA.
+
+2,7s–5,1s
+Texto: MATTE + MICRO BRILHO
+Posição: lateral superior livre, sem cobrir a bala ou a tampa.
+Elemento: emoji ✨ pequeno e dois traços dourados discretos.
+
+5,7s–8,0s
+Texto: CONFIRA AS CORES
+Posição: área inferior central, acima da interface do TikTok.
+
+VÍDEO 2 — ROSA NUDE
+
+0,4s–2,2s
+Texto: MATTE NADA SEM GRAÇA
+Posição: canto superior direito ou área livre do espelho.
+Estilo: branco com a palavra MATTE em rosa nude.
+
+2,7s–5,1s
+Texto: TEXTURA CONFORTÁVEL
+Posição: lateral livre, sem cobrir o produto.
+Elemento: emoji 💄 pequeno e um rabisco curvo rosa.
+
+5,7s–8,0s
+Texto: ESCOLHA SUA COR
+Posição: área inferior central.
+
+VÍDEO 3 — VINHO INTENSO
+
+0,4s–2,2s
+Texto: BRILHO SUTIL DE PERTO
+Posição: canto superior esquerdo.
+Estilo: branco com a palavra BRILHO em vinho.
+
+2,7s–5,1s
+Texto: ACABAMENTO ELEGANTE
+Posição: lateral oposta ao produto.
+Elemento: emoji 🔍 pequeno e três pontos de luz discretos.
+
+5,7s–8,0s
+Texto: VEJA AS OPÇÕES
+Posição: área inferior central.
+
+VÍDEO 4 — ROSA ROSE
+
+0,4s–2,2s
+Texto: ALTA PIGMENTAÇÃO
+Posição: canto superior esquerdo.
+Estilo: branco com destaque rosa-rose em PIGMENTAÇÃO.
+
+2,7s–5,1s
+Texto: APLICAÇÃO UNIFORME
+Posição: lateral livre, sem cobrir produto ou mãos.
+Elemento: emoji 🎨 pequeno e uma linha rosa curta.
+
+5,7s–8,0s
+Texto: CONFIRA OS DETALHES
+Posição: área inferior central.
+
+VÍDEO 5 — ROSA BARBIE
+
+0,4s–2,2s
+Texto: CINCO CORES
+Posição: canto superior esquerdo.
+Estilo: branco com destaque rosa em CORES.
+
+2,7s–5,1s
+Texto: MICRO BRILHO SUTIL
+Posição: lateral livre.
+Elemento: emoji 🌈 pequeno e cinco pontos coloridos apresentados como opções.
+
+5,7s–8,0s
+Texto: TOQUE NO PRODUTO
+Posição: área inferior central.
+
+EXPORTAÇÃO
+
+Manter o vídeo em 9:16, preservar a resolução original, usar 30 fps quando o editor solicitar uma taxa fixa e exportar sem marca-d’água do aplicativo.

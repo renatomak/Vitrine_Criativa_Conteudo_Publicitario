@@ -1,0 +1,120 @@
+PROJETO DE VÍDEO UGC — MODELO NANDA + BATOM BOKKIN
+
+Produto: Batom Matte com Micro Brilho BOKKIN 4g
+Variação visual: Vermelho Cereja
+Formato: vertical 9:16
+Duração: 8 segundos
+Tipo de vídeo: modelo falando diretamente para a câmera, não-POV
+Modelo: Nanda
+Voz: feminina brasileira natural
+Mãos nas imagens: Com mãos
+Foto-base: foto-base-modelo-nanda-01.png
+Referências de identidade: modelo-look-casual.jpeg e nanda-rosto.jpeg
+Referências do produto: produto-01.png e produto-02.png
+
+CONCEITO
+
+Nanda apresenta o batom como o detalhe que finaliza um look elegante. O blazer vinho-cereja, o batom aplicado e as unhas coordenadas criam uma composição visual sofisticada. O produto fechado permanece ao lado do rosto, com o logotipo BOKKIN voltado para a câmera durante todo o vídeo.
+
+DNA DO CRIATIVO
+
+MODELO + PRODUTO IMEDIATO → LOOK COORDENADO → DETALHE VISUAL NOS LÁBIOS E NAS UNHAS → BENEFÍCIOS CONFIRMADOS → CTA PARA O CARRINHO
+
+GANCHO 360
+
+Gancho verbal: “Esse batom BOKKIN deixou meu look mais elegante...”
+Gancho visual: Nanda já aparece olhando para a câmera com o produto ao lado do rosto, blazer, lábios e unhas coordenados.
+Gancho textual: LOOK ELEGANTE EM SEGUNDOS
+
+FALA VALIDADA — 19 PALAVRAS
+
+Esse batom BOKKIN deixou meu look mais elegante: cor intensa, micro brilho sutil e textura confortável. Confere no carrinho.
+
+DIREÇÃO DA MODELO
+
+- Olhar diretamente para a lente durante toda a fala.
+- Começar com sorriso leve e expressão de descoberta confiante.
+- Manter o batom fechado, vertical e estável ao lado do rosto.
+- Não mudar a posição do produto a ponto de esconder o logotipo.
+- Fazer somente um pequeno movimento natural de cabeça.
+- Usar a mão livre para um gesto curto ao lado do blazer, sem entrar na frente do produto.
+- Encerrar com sorriso discreto e a mão livre apontando suavemente para baixo.
+- Sincronizar perfeitamente os lábios com a fala em português brasileiro.
+
+ROUPA, MAQUIAGEM E UNHAS
+
+Roupa: blazer estruturado vinho-cereja e blusa acetinada champanhe.
+Acessórios: brincos dourados pequenos e colar dourado delicado.
+Maquiagem: pele natural e iluminada, olhos suaves e batom Vermelho Cereja com micro brilho fino e acabamento elegante.
+Unhas: formato amendoado médio-longo, base vinho-cereja brilhante e filetes dourados finos, sem pedrarias e sem anéis.
+
+ELEMENTOS NA TELA
+
+0,4s–2,4s: “LOOK ELEGANTE EM SEGUNDOS” no canto superior esquerdo.
+2,8s–5,3s: “COR + MICRO BRILHO” na lateral livre, sem cobrir rosto, produto ou unhas.
+6,1s–8,0s: “CONFERE NO CARRINHO” na parte inferior, acima da área segura.
+Emoji: ✨ aparecendo próximo ao texto sobre micro brilho, nunca sobre os lábios ou produto.
+Rabiscos: dois traços dourados pequenos e animados acompanhando o contorno do texto, sem apontar para informações inexistentes.
+
+DIREÇÃO DE ÁUDIO
+
+Voz feminina brasileira adulta, natural, espontânea e confiante. Ritmo de conversa compatível com oito segundos, dicção clara, pequena ênfase em “cor intensa” e “micro brilho”. Sincronia labial precisa. Sem voz robótica e sem tom institucional.
+
+Não usar música, trilha, jingle ou batida. Permitir apenas a voz da modelo e som ambiente muito discreto do camarim, em volume baixo.
+
+PROMPT COMPLETO DO VÍDEO — PRONTO PARA FLOW/VEO
+
+Foto em anexo: use foto-base-modelo-nanda-01.png como primeiro quadro exato e referência visual obrigatória durante todo o vídeo. Crie um vídeo UGC ultrarrealista vertical 9:16, duração exata de 8 segundos, claramente não-POV, mostrando a modelo adulta Nanda em plano médio, falando diretamente para a câmera dentro do camarim sofisticado da foto-base. Preserve rigorosamente a identidade facial de Nanda, formato do rosto, olhos castanho-esverdeados, cabelo castanho com mechas loiras, pele natural, idade aparente, proporções corporais, blazer estruturado vinho-cereja, blusa acetinada champanhe, acessórios dourados, maquiagem, batom nos lábios, unhas, cenário, bancada de mármore, espelho, luzes quentes e enquadramento. Preserve exatamente uma unidade fechada do Batom BOKKIN em sua mão levantada ao lado do rosto, na mesma posição da foto-base: tubo cilíndrico preto brilhante, logotipo BOKKIN dourado vertical totalmente legível, símbolo de diamante, escala e proporções realistas. A modelo mantém o produto vertical, estável e visível do primeiro ao último quadro; nunca abre, fecha, levanta mais alto, abaixa, gira, vira, troca de mão, arrasta, aperta ou move o produto. A mão que segura o batom permanece anatomicamente correta e quase imóvel. A mão livre faz apenas um gesto curto e elegante ao lado do blazer e, no final, aponta suavemente para baixo sem atravessar o corpo ou cobrir produto, rosto ou texto. Exatamente duas mãos da mesma pessoa, cinco dedos por mão, anatomia consistente. Manter unhas amendoada médio-longas, vinho-cereja brilhantes com filetes dourados finos, idênticas em todos os quadros, sem anéis. Nanda começa com sorriso leve, faz um micro movimento natural de cabeça, fala olhando diretamente para a lente e encerra com sorriso discreto. Sincronia labial precisa com português brasileiro; manter nos lábios a mesma cor Vermelho Cereja, micro brilho fino e acabamento elegante da foto-base, sem mudar cor, forma ou textura durante a fala. Câmera externa em plano médio, eye-level, com aproximação frontal muito curta e suave de poucos centímetros; aparência realista de iPhone Pro Max, sem câmera aparecendo, sem corte de cena, sem POV, sem zoom brusco. O vídeo precisa conter gancho, apresentação do produto, desejo de finalizar um look elegante, benefícios confirmados e CTA. Mostrar “LOOK ELEGANTE EM SEGUNDOS” no canto superior esquerdo entre 0,4 e 2,4 segundos; mostrar “COR + MICRO BRILHO” na lateral livre entre 2,8 e 5,3 segundos com o emoji ✨ e dois pequenos traços dourados animados; mostrar “CONFERE NO CARRINHO” na área inferior segura entre 6,1 e 8 segundos. Todos os elementos gráficos devem ser curtos, legíveis, em português brasileiro e nunca cobrir rosto, boca, produto, logotipo, mãos ou unhas. Voz feminina brasileira adulta, natural, espontânea, confiante e levemente animada, dicção clara e ritmo adequado a oito segundos. INFLUENCER DIALOGUE IN PORTUGUÊS BRASIL: “Esse batom BOKKIN deixou meu look mais elegante: cor intensa, micro brilho sutil e textura confortável. Confere no carrinho.” Sem música, trilha musical, jingle ou batida; somente voz natural e som ambiente discreto e baixo. Negative prompt: não transformar o vídeo em POV; não alterar a identidade, idade, rosto, olhos, cabelo, corpo, roupa, acessórios ou pele de Nanda; não aplicar filtro de beleza plástico; não deformar rosto, boca ou dentes; não criar falha de sincronia labial; não alterar a cor ou acabamento do batom nos lábios; não transformar o produto em gloss, batom líquido, lápis ou balm; não alterar tubo preto, logotipo BOKKIN, símbolo, letras douradas, tamanho, proporções ou quantidade; não abrir o produto; não duplicar, fundir, quebrar, deformar, trocar de mão ou fazer o produto desaparecer; não esconder ou distorcer o logotipo; não criar terceira mão, braços duplicados, mãos extras, dedos extras, dedos fundidos, anatomia impossível ou unhas mudando; não criar anéis; não permitir que a mão atravesse corpo, roupa, objeto ou produto; não mudar cenário, móveis, mármore, espelho ou iluminação; não criar celular, câmera visível, tela, interface, preço, desconto, promoção, legenda automática, textos extras, marca-d’água ou logotipo adicional; não usar movimento robótico, zoom brusco, cortes, câmera tremida em excesso, música ou ruído competindo com a fala.
+
+PROMPT DA FOTO — REGISTRO PARA REPRODUÇÃO
+
+Crie uma fotografia UGC editorial ultrarrealista vertical 9:16 da modelo adulta Nanda, preservando exatamente sua identidade facial conforme nanda-rosto.jpeg e suas proporções conforme modelo-look-casual.jpeg. Ela aparece em plano médio, olhando para a câmera, dentro de um camarim privado sofisticado com bancada de mármore claro, espelho com acabamento em latão escovado, arandelas quentes e fundo elegante desfocado. Vestir blazer estruturado vinho-cereja sobre blusa acetinada champanhe, brincos dourados pequenos e colar dourado delicado. Aplicar nos lábios a variação Vermelho Cereja do Batom BOKKIN com cor intensa, micro brilho fino e acabamento elegante. Mostrar exatamente duas mãos anatomicamente corretas; uma mão segura exatamente uma unidade fechada do Batom BOKKIN verticalmente ao lado do rosto, com corpo preto brilhante, logotipo BOKKIN dourado vertical e símbolo totalmente visíveis; a outra mão repousa naturalmente perto da bancada. Unhas amendoada médio-longas, vinho-cereja brilhantes com filetes dourados finos, sem pedrarias e sem anéis. Composição não-POV, câmera externa eye-level, aparência de iPhone Pro Max, rosto, produto e unhas nítidos, fundo com bokeh suave e espaço livre para textos futuros. Sem texto incorporado, sem preço, sem interface, sem celular e sem marca-d’água. Não alterar identidade, anatomia, produto, logotipo, roupa, cor ou quantidade.
+
+DESCRIÇÃO E CINCO HASHTAGS
+
+Cor intensa, micro brilho sutil e um acabamento elegante para completar a maquiagem. Confira as cinco cores do Batom BOKKIN no carrinho. ✨
+
+#TikTokShop #Batom #MaquiagemBrasil #DicasDeMake #AchadinhosTikTok
+
+CONFIGURAÇÃO NO FLOW BATCH
+
+Modo: Vídeo em lote
+Modelo: Frames
+Mídia: foto-base-modelo-nanda-01.png
+Associação: uma imagem para este prompt
+Modelo de vídeo: Veo 3.1 Lite [Lower Priority]
+Proporção: 9:16
+Duração: 8 segundos
+Saídas: x4
+Agente: desativado
+
+CHECKLIST ANTES DO ENVIO
+
+- Foto-base correta selecionada.
+- Vídeo não-POV e modelo olhando para a câmera.
+- Identidade de Nanda preservada.
+- Blazer, lábios e unhas em cores coordenadas.
+- Exatamente uma unidade fechada do BOKKIN.
+- Logotipo dourado visível e correto.
+- Produto permanece imóvel durante o vídeo.
+- No máximo duas mãos e cinco dedos por mão.
+- Fala completa cabe em oito segundos.
+- Sincronia labial em português brasileiro.
+- Três textos curtos posicionados sem obstrução.
+- Emoji e rabiscos discretos.
+- Nenhuma informação comercial inventada.
+- Sem preço, desconto ou urgência falsa.
+- Sem música de fundo.
+- Configuração 9:16, 8s e x4.
+
+CHECKLIST DO VÍDEO GERADO
+
+- O rosto continua sendo o de Nanda em todos os quadros?
+- O batom continua fechado, estável e com o logotipo correto?
+- A cor dos lábios, o blazer e as unhas permanecem consistentes?
+- Há exatamente duas mãos, sem dedos extras ou deformações?
+- A fala está natural e perfeitamente sincronizada?
+- Os textos estão corretos e não cobrem elementos importantes?
+- A câmera permanece externa e o vídeo não parece POV?
+- O CTA aparece e soa natural?
+- Não há música, interface, preço ou marca-d’água?

@@ -1,0 +1,131 @@
+PROMPT MESTRE — BATOM MATTE COM MICRO BRILHO BOKKIN 4G
+
+Atue como Especialista em Criativos UGC para TikTok Shop, Diretor de Retenção, Copywriter de conversão e Engenheiro de Prompts para vídeos gerados por inteligência artificial.
+
+Crie conteúdos verticais de 8 segundos para TikTok Shop, Reels e Shorts, com aparência UGC ultrarrealista, fidelidade absoluta às fotografias reais e comunicação comercial segura. Aplique o DNA de retenção: PRODUTO IMEDIATO → APRESENTAÇÃO → PROVA VISUAL → RESULTADO VISUAL → CTA, sem copiar literalmente cenários, falas ou movimentos de outros projetos.
+
+PRODUTO
+
+Produto principal: Batom Matte com Micro Brilho BOKKIN.
+Conteúdo da compra: 1 unidade.
+Peso informado: 4g.
+Acabamento informado: matte luminoso com micro brilho.
+Características confirmadas: alta pigmentação, longa duração da cor, textura confortável, aplicação suave e uniforme, micro brilho sutil e efeito visual de lábios mais volumosos e definidos.
+Cores disponíveis: Rosa Nude, Vermelho Cereja, Rosa Rose, Rosa Barbie e Vinho Intenso.
+Identificador TikTok Shop: 1736467641030575473.
+
+REGRA CRÍTICA SOBRE QUANTIDADE E VARIAÇÕES
+
+A compra corresponde a uma unidade, na cor escolhida. Nunca apresentar as cinco cores como um kit. Quando várias cores aparecerem, identificá-las somente como opções disponíveis. Não afirmar que o cliente recebe todas as cores. Não inventar nomes, tonalidades, quantidade, acessórios ou brindes.
+
+HIERARQUIA DAS FONTES
+
+1. As fotografias reais determinam embalagem, formato, proporções, cores, acabamento, logotipo e aparência do produto.
+2. A descrição oficial confirma peso, variações, características e modo de uso.
+3. A foto-base aprovada determina cenário, enquadramento, iluminação e posição do produto no vídeo.
+4. As instruções específicas do usuário prevalecem sobre o modelo geral.
+
+Em conflito visual, as fotos reais prevalecem. Não transferir características do projeto de fios de pedras ou de qualquer outro produto.
+
+FIDELIDADE VISUAL ABSOLUTA
+
+Preservar durante todo o conteúdo:
+- batom em bala com corte inclinado;
+- corpo preto brilhante;
+- tubo interno metálico dourado;
+- tampa preta brilhante;
+- logotipo BOKKIN dourado, vertical e legível quando visível na referência;
+- micro partículas de brilho na bala;
+- cor escolhida sem mudança entre quadros;
+- tamanho, proporção, acabamento e quantidade de peças da referência;
+- embalagem externa somente quando estiver presente na foto-base.
+
+Não transformar o produto em gloss líquido, batom líquido, lápis labial, balm, estojo de maquiagem ou embalagem genérica. Não mudar o logotipo, criar texto falso, redesenhar a embalagem, duplicar unidades, fundir tampa e corpo, trocar preto e dourado, alterar a cor da bala, remover o micro brilho ou exagerá-lo como glitter grosso.
+
+CORES E VARIAÇÕES
+
+Use apenas os nomes confirmados: Rosa Nude, Vermelho Cereja, Rosa Rose, Rosa Barbie e Vinho Intenso. Uma variação escolhida deve permanecer idêntica do primeiro ao último quadro. Se várias cores aparecerem, devem ser opções visuais e nunca conteúdo de uma compra única.
+
+PÚBLICO E ESTÉTICA
+
+Público provável: pessoas adultas interessadas em maquiagem, beleza e lábios com cor marcante e acabamento elegante.
+
+Estética: beauty UGC sofisticada, realista, feminina, moderna, comercial e acolhedora. O produto deve dominar o quadro. Decoração, espelhos, flores, nécessaire e acessórios podem aparecer discretamente, sem competir com o batom ou sugerir itens incluídos.
+
+AMBIENTES
+
+Cada criativo deve usar ambiente, superfície, composição e paleta diferentes. Possibilidades: penteadeira de vidro fumê, bancada de quartzo rosado, camarim minimalista, mesa de maquiagem com acrílico translúcido e nécessaire aberta em bancada clara. Não repetir apenas mudando a iluminação.
+
+IMAGENS-BASE
+
+Criar cinco imagens verticais 9:16, uma por conceito, em Nano Banana Pro, x4 e agente desativado. Usar a mesma referência oficial em todas. Campo Mãos nas imagens: Sem mãos.
+
+Toda imagem deve mostrar o produto inteiro, estável, grande e reconhecível, com rótulo e logotipo desobstruídos. Incluir em cada prompt: nenhuma pessoa, nenhuma mão, nenhum braço, nenhuma parte do corpo, rótulos frontais completamente visíveis e sem obstrução. Não incluir texto comercial, preço, desconto, interface, celular ou marca-d’água.
+
+VÍDEOS
+
+Configuração fixa: Vídeo em lote → Frames → uma imagem por prompt na mesma ordem → Veo 3.1 Lite [Lower Priority] → vertical 9:16 → 8 segundos → x4 → agente desativado.
+
+Cada vídeo é independente e deve conter seu próprio gancho, apresentação falada e visual do batom, situação ou desejo reconhecível, benefício confirmado, prova visual e CTA natural para o carrinho laranja.
+
+O produto deve aparecer desde o primeiro quadro. Usar câmera de celular com aproximação curta, movimento lateral suave ou close moderado. As mãos femininas adultas podem entrar no primeiro segundo e devem permanecer até o último quadro. Usar no máximo duas mãos da mesma pessoa, com anatomia correta, cinco dedos por mão e unhas consistentes.
+
+As mãos podem apontar ao lado do produto, gesticular, tocar levemente a superfície ou a lateral da embalagem sem cobrir o logotipo. As mãos nunca podem pegar, levantar, abrir, fechar, girar, virar, arrastar, apertar, aplicar ou mover o batom. Manter produto, quantidade, cor, cenário e iluminação da imagem inicial.
+
+Não introduzir lábios, rosto ou aplicação se esses elementos não existirem na imagem-base selecionada. Toda ação deve ser compatível com o quadro inicial aprovado.
+
+FALAS
+
+Criar fala em português brasileiro com 18 a 22 palavras, ritmo natural para 8 segundos e estrutura: GANCHO + SITUAÇÃO OU DESEJO + BENEFÍCIO CONFIRMADO + DETALHE VISUAL + CTA.
+
+Usar linguagem simples e espontânea. Evitar tom institucional, promessas absolutas, urgência falsa, preço, desconto, estoque e afirmações não confirmadas. Não usar: “Oi, gente”, “eu testei”, “produto perfeito”, “resultado garantido”, “corra antes que acabe”, “última chance” ou “promoção imperdível”.
+
+Cada prompt deve incluir exatamente: INFLUENCER DIALOGUE IN PORTUGUÊS BRASIL: “...”
+
+Direção de voz: feminina brasileira adulta, natural, espontânea, confiante, levemente animada, dicção clara, sem voz robótica e sem locução publicitária exagerada.
+
+GANCHO 360
+
+Combinar em cada vídeo:
+- gancho verbal nos primeiros 1 a 2 segundos;
+- gancho visual com o produto já presente e um movimento simples;
+- texto curto na tela com 2 a 6 palavras, sem repetir literalmente a fala.
+
+Adicionar pelo menos um emoji coerente e pequenos rabiscos animados sincronizados. Posicionar gráficos apenas nas áreas livres, sem cobrir batom, tampa, embalagem, logotipo ou mãos.
+
+ÁNGULOS DOS CINCO CRIATIVOS
+
+1. Descoberta: acabamento matte com micro brilho.
+2. Dor cotidiana: batom visualmente sem graça versus acabamento luminoso elegante, sem comparação enganosa.
+3. Detalhe visual: micro brilho sutil e cor intensa.
+4. Aplicação comunicada: pigmentação e cobertura uniforme, demonstradas apenas quando a imagem-base permitir.
+5. Variedade: cinco cores como opções disponíveis, deixando claro que a compra é de uma unidade.
+
+SOM
+
+Não usar música, trilha, jingle ou batida. Permitir somente voz brasileira natural e sons ambientes discretos e coerentes, em volume baixo.
+
+NEGATIVE PROMPT PADRÃO
+
+Não transformar o batom em gloss, batom líquido, lápis, balm ou produto genérico. Não alterar corpo preto, tubo dourado, tampa, logotipo BOKKIN, formato da bala, corte inclinado, cor, micro brilho, proporções ou quantidade. Não criar glitter grosso, produto derretido, quebrado ou deformado. Não duplicar, fundir, fazer desaparecer ou trocar o produto. Não mostrar todas as cores como kit. Não inventar acessórios, pincéis, espelhos, brindes, selos, textos ou embalagens. Não criar terceira mão, braços duplicados, dedos extras, mãos deformadas, unhas mudando ou anatomia impossível. Não permitir mãos cobrindo o logotipo, pegando, abrindo, fechando, levantando, girando, arrastando, apertando, aplicando ou movendo o produto. Não mostrar celular, tela, interface, preço, desconto, legenda automática, marca-d’água ou logotipo adicional. Não usar movimento robótico, zoom brusco, baixa nitidez ou física impossível. Não usar música de fundo.
+
+DESCRIÇÕES E HASHTAGS
+
+Para cada postagem, criar uma descrição breve e segura, mencionando o principal benefício confirmado e CTA para conferir as opções. Entregar a descrição e exatamente cinco hashtags existentes no mesmo bloco. Não inventar promoção, estoque ou resultado.
+
+CHECKLIST FINAL
+
+- Produto aparece no primeiro quadro.
+- Uma unidade e uma cor protagonista.
+- Várias cores tratadas somente como opções.
+- Identidade BOKKIN fiel às fotos.
+- Imagem-base vertical 9:16 e sem pessoas ou mãos.
+- Movimento compatível com a imagem-base.
+- No máximo duas mãos femininas nos vídeos.
+- Fala entre 18 e 22 palavras e compatível com 8 segundos.
+- Texto curto, emoji e rabisco sem obstrução.
+- CTA natural para o carrinho.
+- Nenhuma promessa, preço, desconto ou escassez inventada.
+- Sem música de fundo.
+- Cinco imagens, cinco prompts, cinco marcações e vídeo x4.
+
