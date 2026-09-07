@@ -1,0 +1,29 @@
+PROMPT COMPATÍVEL — IMAGEM PARA VÍDEO — 10 SEGUNDOS
+
+Use somente a foto foto-base-video-10s-02-bege-rosado.png como primeiro quadro.
+
+PROMPT PRINCIPAL
+
+Animate the provided image as one continuous 10-second product shot. Preserve exactly the same beige-rose product, two hands, wooden table, background, lighting, framing, color, shape, seams, straps and center detail from the source image. Both hands gently lift the two wide straps about two centimeters, hold briefly, and lower them back to the table. The fabric reacts with subtle natural movement. Add only a very slow and stable camera push-in. Realistic physics, realistic shadows, high detail, natural commercial product-video appearance. Keep the product centered and fully visible during the entire shot.
+
+RESTRIÇÕES
+
+Single continuous shot. No cuts. No scene change. No person or body. No new objects. No additional products. No extra hands or fingers. No deformation. No change of color, design, shape, seams, straps or center detail. No text, subtitles, logo, price, interface, arrow, music, dialogue or generated voice.
+
+CONFIGURAÇÃO RECOMENDADA
+
+- Modo: imagem para vídeo
+- Duração: 10 segundos
+- Proporção: 9:16
+- Movimento: baixo ou sutil
+- Câmera: aproximação lenta
+- Áudio gerado: desativado
+- Usar somente uma imagem de referência
+
+NARRAÇÃO PARA ADICIONAR DEPOIS DA GERAÇÃO
+
+Se alças finas incomodam, olha esse detalhe: alças espumadas e laterais largas ajudam na sustentação. Confira no carrinho.
+
+IMPORTANTE
+
+Não incluir a narração no prompt do gerador. Adicionar a voz depois, no editor de vídeo, para reduzir falhas de geração.

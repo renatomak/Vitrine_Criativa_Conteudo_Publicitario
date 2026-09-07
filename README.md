@@ -3,6 +3,9 @@
 Acervo de materiais para criação de conteúdo publicitário, organizado por
 categoria e produto.
 
+Para localizar rapidamente um item, consulte o
+[Catálogo de Produtos](CATALOGO-PRODUTOS.md).
+
 ## Onde encontrar cada material
 
 ```text
@@ -27,12 +30,45 @@ subpasta `imagens`.
 
 ## Como adicionar um produto
 
-1. Escolha a categoria em `produtos/`.
-2. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
+1. Antes de criar uma pasta, execute `scripts/localizar-produto.ps1` passando
+   o link completo ou o título do anúncio. Se houver correspondência, revise a
+   pasta indicada em vez de criar um novo cadastro.
+2. Escolha a categoria em `produtos/`.
+3. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
    com palavras separadas por hífen.
-3. Coloque as fotos, os criativos, as referências e a descrição diretamente
+4. Coloque as fotos, os criativos, as referências e a descrição diretamente
    nessa pasta.
-4. Crie `videos/` ou `arquivos/` apenas se esses materiais existirem.
+5. Quando o produto vier de uma loja, crie `produto.json` com o ID e o link
+   canônico do anúncio, sem parâmetros de rastreamento.
+6. Execute `scripts/atualizar-catalogo.ps1` para atualizar o índice navegável
+   em `CATALOGO-PRODUTOS.md`.
+
+Exemplo de verificação preventiva:
+
+```powershell
+.\scripts\localizar-produto.ps1 "https://shop.tiktok.com/br/pdp/123456789"
+```
+
+O localizador compara primeiro o ID do anúncio e depois o título, os apelidos
+e o nome da pasta. Correspondências fortes devem ser tratadas como produto já
+cadastrado até que as imagens demonstrem o contrário.
+
+Exemplo de `produto.json`:
+
+```json
+{
+  "nome": "Nome comercial do produto",
+  "categoria": "categoria",
+  "aliases": ["Outro nome usado no anúncio"],
+  "fontes": [
+    {
+      "plataforma": "tiktok-shop",
+      "produto_id": "123456789",
+      "url": "https://shop.tiktok.com/br/pdp/123456789"
+    }
+  ]
+}
+```
 
 Exemplo:
 
@@ -81,3 +117,7 @@ misturados às imagens principais do produto.
 Alguns produtos ainda não possuem `descricao-produto.txt`. Isso não impede o
 uso das imagens, mas adicionar esse arquivo facilita buscas e a criação futura
 de anúncios.
+
+## Referências de unhas
+
+A coleção possui 52 imagens organizadas. Consulte o [índice de unhas](referencias/unhas-artisticas-alongadas/README.md).
