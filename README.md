@@ -71,7 +71,15 @@ produtos/
 Materiais que servem para vários produtos, como fotos de modelos e referências
 visuais gerais, devem ficar em `referencias/`.
 
-## Observação sobre descrições
+## Direção atual dos criativos
+
+- Duração padrão dos vídeos: **10 segundos**, salvo duração diferente solicitada pelo usuário.
+- Linguagem UGC cotidiana, menos comercial; evitar tom de vendedor, botões de compra e chamadas insistentes para o carrinho.
+- POV com movimento natural de câmera e mãos, demonstrando detalhes reais do produto.
+- Referências de redação e estrutura: arquivos em `referencias/direcao-criativos/`. Servem como referência; instruções específicas do usuário prevalecem, inclusive duração e tom.
+- As imagens-base para animação devem ficar sem tipografia; preservar produto, quantidade e características confirmadas.
+
+## Descrições dos produtos
 
 Alguns produtos ainda não possuem `descricao-produto.txt`. Isso não impede o
 uso das imagens, mas adicionar esse arquivo facilita buscas e a criação futura
