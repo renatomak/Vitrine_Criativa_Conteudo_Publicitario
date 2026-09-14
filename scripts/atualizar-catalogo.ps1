@@ -27,7 +27,7 @@ $records = foreach ($category in Get-ChildItem -LiteralPath $productsRoot -Direc
         }
         $title = if ($metadata.nome) { [string]$metadata.nome } else { Get-FirstProductTitle $directory }
         [PSCustomObject]@{
-            Categoria = $category.Name
+            Personagem = $category.Name
             Pasta = $directory.Name
             Titulo = $title
             CaminhoRelativo = "produtos/$($category.Name)/$($directory.Name)"
@@ -44,7 +44,7 @@ $lines.Add("Total: **$($records.Count) produtos**. Este arquivo é gerado por ``
 $lines.Add('')
 $lines.Add('Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.')
 
-foreach ($group in $records | Group-Object Categoria) {
+foreach ($group in $records | Group-Object Personagem) {
     $lines.Add('')
     $lines.Add("## $($group.Name)")
     $lines.Add('')
@@ -65,13 +65,13 @@ $lines.Add('## Alertas de organização')
 $lines.Add('')
 $lines.Add("- Títulos repetidos: **$($duplicateTitles.Count) grupos**.")
 foreach ($duplicate in $duplicateTitles) {
-    $folders = $duplicate.Group | ForEach-Object { "``$($_.Categoria)/$($_.Pasta)``" }
+    $folders = $duplicate.Group | ForEach-Object { "``$($_.Personagem)/$($_.Pasta)``" }
     $lines.Add("  - $($duplicate.Name): $($folders -join ', ')")
 }
 $lines.Add("- Pastas fora do padrão kebab-case: **$($invalidFolders.Count)**.")
-foreach ($record in $invalidFolders) { $lines.Add("  - ``$($record.Categoria)/$($record.Pasta)``") }
+foreach ($record in $invalidFolders) { $lines.Add("  - ``$($record.Personagem)/$($record.Pasta)``") }
 $lines.Add("- Produtos sem ``descricao-produto.txt``: **$($missingDescriptions.Count)**.")
-foreach ($record in $missingDescriptions) { $lines.Add("  - ``$($record.Categoria)/$($record.Pasta)``") }
+foreach ($record in $missingDescriptions) { $lines.Add("  - ``$($record.Personagem)/$($record.Pasta)``") }
 
 Set-Content -LiteralPath $catalogPath -Value $lines -Encoding utf8
 Write-Output "Catálogo atualizado: $catalogPath"

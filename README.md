@@ -1,7 +1,7 @@
 # Vitrine Criativa — Conteúdo Publicitário
 
 Acervo de materiais para criação de conteúdo publicitário, organizado por
-categoria e produto.
+influencer e produto.
 
 Para localizar rapidamente um item, consulte o
 [Catálogo de Produtos](CATALOGO-PRODUTOS.md).
@@ -11,7 +11,7 @@ Para localizar rapidamente um item, consulte o
 ```text
 .
 ├── produtos/
-│   └── categoria/
+│   └── maia/ ou nanda/
 │       └── nome-do-produto/
 │           ├── descricao-produto.txt
 │           ├── produto-01.webp
@@ -20,7 +20,7 @@ Para localizar rapidamente um item, consulte o
 │           ├── videos/       (somente quando houver vídeos)
 │           └── arquivos/     (somente para pacotes ZIP e fontes)
 ├── referencias/
-│   ├── modelos/
+│   ├── maia/ e nanda/
 │   └── unhas-artisticas-alongadas/
 └── skills/
 ```
@@ -33,7 +33,7 @@ subpasta `imagens`.
 1. Antes de criar uma pasta, execute `scripts/localizar-produto.ps1` passando
    o link completo ou o título do anúncio. Se houver correspondência, revise a
    pasta indicada em vez de criar um novo cadastro.
-2. Escolha a categoria em `produtos/`.
+2. Escolha a influencer em `produtos/`: Maia para artigos de religiões de matriz africana e o acervo espiritual relacionado; Nanda para os demais produtos.
 3. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
    com palavras separadas por hífen.
 4. Coloque as fotos, os criativos, as referências e a descrição diretamente
@@ -74,7 +74,7 @@ Exemplo:
 
 ```text
 produtos/
-└── moda-feminina/
+└── nanda/
     └── nome-do-produto/
         ├── descricao-produto.txt
         ├── produto-01.webp
@@ -94,17 +94,21 @@ produtos/
 - Sequências descritivas existentes podem ser mantidas, por exemplo
   `01-visao-geral-pedra.jpeg`.
 
-## Categorias atuais
+## Influencers e organização
 
-- `beleza-e-perfumaria`
-- `brinquedos-e-hobbies`
-- `casa-e-cozinha`
-- `espiritualidade-e-artesanato`
-- `limpeza`
-- `livros`
-- `moda-feminina`
-- `moda-masculina`
+- [Maia](produtos/maia/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
+- [Nanda](produtos/nanda/README.md): influencer de IA com perfil mais evangélico, responsável pelos demais produtos.
 
+As pastas dos produtos ficam diretamente dentro de cada influencer. O campo
+`categoria` dos metadados continua descrevendo o tipo de produto; o campo
+`personagem` identifica `maia` ou `nanda`.
+
+Alfazemas, incensos, contas de pedra e pulseira de sete nós foram reunidos na
+Maia por afinidade editorial com o acervo espiritual. Essa organização não
+atribui origem africana nem uso religioso exclusivo a esses itens.
+
+As referências de cada influencer ficam em `referencias/maia/` e
+`referencias/nanda/`. A coleção geral de unhas permanece compartilhada.
 Materiais que servem para vários produtos, como fotos de modelos e referências
 visuais gerais, devem ficar em `referencias/`.
 

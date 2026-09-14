@@ -18,3 +18,11 @@ Estas regras se aplicam a qualquer inclusão ou atualização dentro de `produto
    `CATALOGO-PRODUTOS.md`.
 7. Não consolide nem exclua cadastros duplicados existentes sem comparar todos
    os arquivos e obter autorização do usuário.
+
+## Organização por influencer
+
+- Use `produtos/maia/nome-do-produto/` para artigos de religiões de matriz africana e o acervo espiritual relacionado.
+- Use `produtos/nanda/nome-do-produto/` para os demais produtos. Nanda é uma influencer de IA com perfil mais evangélico; respeite esse posicionamento nos novos conteúdos.
+- Não crie categorias como pastas intermediárias. Preserve a categoria comercial no campo `categoria` e registre a influencer em `personagem` quando houver `produto.json`.
+- Alfazemas, incensos, contas de pedra e pulseira de sete nós estão com Maia por afinidade editorial; não atribua origem africana ou uso religioso exclusivo sem evidência.
+- Referências de cada personagem ficam em `referencias/maia/` e `referencias/nanda/`; referências gerais de unhas são compartilhadas.

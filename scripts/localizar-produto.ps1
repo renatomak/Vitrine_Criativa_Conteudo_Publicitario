@@ -105,7 +105,7 @@ $records = foreach ($category in Get-ChildItem -LiteralPath $productsRoot -Direc
         )
 
         [PSCustomObject]@{
-            Categoria = $category.Name
+            Personagem = $category.Name
             Pasta = $directory.Name
             Titulo = $title
             Caminho = $directory.FullName
@@ -134,7 +134,7 @@ if ($certain.Count) {
     Write-Output 'DECISAO: compare as imagens antes de criar uma nova pasta.'
 }
 
-$matches | Select-Object Categoria, Pasta, Titulo, MesmoId, Similaridade, Caminho |
+$matches | Select-Object Personagem, Pasta, Titulo, MesmoId, Similaridade, Caminho |
     Format-List | Out-String | Write-Output
 
 if ($certain.Count) { exit 2 }
