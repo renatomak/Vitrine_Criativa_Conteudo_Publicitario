@@ -1,6 +1,6 @@
 # Catálogo de Produtos
 
-Total: **60 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **61 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
@@ -11,6 +11,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah](<produtos/maia/buzios-naturais-artesanato>) — pasta: `buzios-naturais-artesanato`
 - [Fio de Pedra Natural 8MM - Aproximadamente 45 Bolinhas para Japamalas Pulseiras Colares e Terços Qualidade e Beleza](<produtos/maia/fio-pedra-natural-8mm-45-bolinhas>) — pasta: `fio-pedra-natural-8mm-45-bolinhas`
 - [Guia Fio de Contas Exu e Pombagira Colar Religioso Umbanda Candomblé com e sem firma](<produtos/maia/guia-fio-de-contas-exu-pombagira>) — pasta: `guia-fio-de-contas-exu-pombagira`
+- [Guia Fio de Contas Malandro com Firma Colar Religioso Maria Mariah](<produtos/maia/guia-fio-de-contas-malandro-com-firma>) — pasta: `guia-fio-de-contas-malandro-com-firma`; TikTok: `1735042380243502846`
 - [Guia Fio de Contas Preto e Roxo | Pombagira Maria Mulambo](<produtos/maia/guia-fio-de-contas-preto-roxo>) — pasta: `guia-fio-de-contas-preto-roxo`
 - [Kit 70 Incenso Indiano Várias Fragrâncias 10 Caixas 70 Varetas Limpeza de Ambiente e Espiritualidade](<produtos/maia/incensos-bhakti-aromas-variados>) — pasta: `incensos-bhakti-aromas-variados`
 - [Kit 3 alfazemas de 1 litro](<produtos/maia/kit-3-alfazemas-1l>) — pasta: `kit-3-alfazemas-1l`
