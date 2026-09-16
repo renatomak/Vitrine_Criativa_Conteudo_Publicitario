@@ -1,6 +1,6 @@
 # Catálogo de Produtos
 
-Total: **61 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **64 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
@@ -28,6 +28,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [calca feminina](<produtos/nanda/calca-feminina>) — pasta: `calca-feminina`; descrição pendente
 - [Calça jeans skinny feminina plus size de cintura alta](<produtos/nanda/calca-jeans-plus-size-feminina-cintura-alta>) — pasta: `calca-jeans-plus-size-feminina-cintura-alta`
 - [Calça Jeans Feminina Cintura Alta Plus Size Flare Com Lycra](<produtos/nanda/calca-jeans-plus-size-flare-com-lycra>) — pasta: `calca-jeans-plus-size-flare-com-lycra`
+- [Calça Pantalona De Linho Com Cinto Fake Cintura alta e casual com decoração De Corrente Metálica e Bolsos.](<produtos/nanda/calca-pantalona-viscose-linho-cinto-fake-corrente>) — pasta: `calca-pantalona-viscose-linho-cinto-fake-corrente`; TikTok: `1736386643255329824`
 - [Caneta de impressão 3D profissional para crianças na cor azul, inclui cabo USB e refis de reposição, exclusiva para e-commerce transfronteiriço.](<produtos/nanda/caneta-impressao-3d-profissional-infantil>) — pasta: `caneta-impressao-3d-profissional-infantil`
 - [Capa de colchão impermeável com elástico ajustável em toda volta premium](<produtos/nanda/capa-colchao-impermeavel-elastico-ajustavel-premium>) — pasta: `capa-colchao-impermeavel-elastico-ajustavel-premium`; TikTok: `1736018212541400648`
 - [Chaleira Elétrica Vidro 2 Litros Base Giratória 360° 1000w Cor Prateado](<produtos/nanda/chaleira-eletrica-vidro-2l>) — pasta: `chaleira-eletrica-vidro-2l`
@@ -37,6 +38,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [garrafa termica 650ml](<produtos/nanda/garrafa-termica-650ml>) — pasta: `garrafa-termica-650ml`; descrição pendente
 - [Jogo de Lençol Micro Percal 400 Fios — 3 Peças](<produtos/nanda/jogo-lencol-micropercal-400-fios-3-pecas>) — pasta: `jogo-lencol-micropercal-400-fios-3-pecas`
 - [Lençol De Plush 3 Peças Lençol Com elástico em toda Volta Toque Macio Solteiro/Casal/Queen/King](<produtos/nanda/jogo-lencol-plush-3-pecas>) — pasta: `jogo-lencol-plush-3-pecas`
+- [Kit 3, 2 ou 1 unidade Blusa Feminina Manga Longa Cacharrel Com Gola Alta Sueter Em Ribana Premium](<produtos/nanda/kit-1-2-3-blusas-cacharrel-gola-alta-ribana-premium>) — pasta: `kit-1-2-3-blusas-cacharrel-gola-alta-ribana-premium`; TikTok: `1735907089243932117`
 - ["Meninas, troquei todas as cuecas velhas do meu namorado por esse kit Polo Wear com 10 por um precinho incrível! Corre no carrinho!"](<produtos/nanda/kit-10-cuecas-boxer-polo-wear>) — pasta: `kit-10-cuecas-boxer-polo-wear`
 - [Kit de 10 potes transparentes de 1.000 ml para organizar alimentos](<produtos/nanda/kit-10-potes-1000ml-livre-bpa>) — pasta: `kit-10-potes-1000ml-livre-bpa`
 - [Kit Com 12 Potes 800ml Tampa Com Trava Lavável Microondas Freezer Marmita Fitness Durável BPAFree](<produtos/nanda/kit-12-potes-marmita-800ml>) — pasta: `kit-12-potes-marmita-800ml`
@@ -52,6 +54,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [KIT 6 Forma De Silicone Air Fryer Assadeira Em Silicone Flexível Lavável Forno e Microondas](<produtos/nanda/kit-6-formas-silicone-airfryer>) — pasta: `kit-6-formas-silicone-airfryer`
 - [kit 6 ou 12 pares meias cano curto](<produtos/nanda/kit-6-ou-12-pares-meias-cano-curto>) — pasta: `kit-6-ou-12-pares-meias-cano-curto`; descrição pendente
 - [Kit 6 Toalha de banho Macia Cores Sortidas Alta Absorção 0,70x1,40](<produtos/nanda/kit-6-toalhas-banho-algodao>) — pasta: `kit-6-toalhas-banho-algodao`
+- [Kit ATÉ 10 pçs Boxer Feminina Shortinho Compressão 10 cm de cós Alta elasticidade](<produtos/nanda/kit-ate-10-boxer-feminina-shortinho-compressao-cos-10cm>) — pasta: `kit-ate-10-boxer-feminina-shortinho-compressao-cos-10cm`; TikTok: `1735168532329432898`
 - [KIT até 5 TOP Reforçado Com Bojo Removível, Zíper e Tecnologia Importada](<produtos/nanda/kit-ate-5-tops-reforcados-bojo-removivel-ziper>) — pasta: `kit-ate-5-tops-reforcados-bojo-removivel-ziper`
 - [KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral Larga Conforto Lingerie](<produtos/nanda/kit-calcinha-calcola-cintura-alta-lisa-redutora>) — pasta: `kit-calcinha-calcola-cintura-alta-lisa-redutora`
 - [KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral Larga Conforto Lingerie](<produtos/nanda/kit-calcinha-cintura-alta-zero-culote>) — pasta: `kit-calcinha-cintura-alta-zero-culote`
