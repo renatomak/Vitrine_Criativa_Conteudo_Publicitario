@@ -1,0 +1,18 @@
+Cadastro criado em 15/09/2026.
+Cadastro complementado com quatro imagens e descrição fornecidas pelo usuário.
+
+Mapa de imagens:
+- produto-01.jpeg: imagem original do compartilhamento do anúncio, preservada.
+- produto-02.png: capa frontal; confirma título e autores.
+- produto-03.png: contracapa; confirma descrição, editora e ISBN.
+- produto-04.png: livro segurado na mão; referência visual de apresentação, não usar para substituir as medidas informadas.
+- produto-05.png: imagem com medidas de 9 cm de largura e 13 cm de altura.
+
+Referência para futuros criativos: preservar capa, tipografia, autores, cores, ramo de ervas, proporções e formato brochura. Não inventar páginas internas. Tratar ervas impressas na capa como parte da ilustração, não como itens que acompanham o livro. Nenhuma promessa garantida de proteção ou resultado espiritual.
+
+Produto indicado pelo usuário como “produto da maia”. Essa referência não foi tratada como marca ou autoria; o vendedor exibido é Loja do Seu 7.
+Não havia produto correspondente no acervo na busca por título e ID.
+Preço observado: R$ 18,90. Valor sujeito a alteração.
+Fonte: https://shop.tiktok.com/br/pdp/1734189767118783667
+Foto produto-01.jpeg: imagem de compartilhamento fornecida no parâmetro og_info do link do usuário.
+Fonte da imagem: https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/95485f6e28f84062a0caed3bcefcd719~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=2408c917&shcp=32ce9e9e&idc=my&from=604555543
