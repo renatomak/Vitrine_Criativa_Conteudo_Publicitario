@@ -12,7 +12,7 @@ Para localizar rapidamente um item, consulte o
 .
 ├── produtos/
 │   └── maia/ ou nanda/
-│       └── nome-do-produto/
+│       └── codigo-do-produto/
 │           ├── descricao-produto.txt
 │           ├── produto-01.webp
 │           ├── criativo-01.png
@@ -34,8 +34,7 @@ subpasta `imagens`.
    o link completo ou o título do anúncio. Se houver correspondência, revise a
    pasta indicada em vez de criar um novo cadastro.
 2. Escolha a influencer em `produtos/`: Maia para artigos de religiões de matriz africana e o acervo espiritual relacionado; Nanda para os demais produtos.
-3. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
-   com palavras separadas por hífen.
+3. Use o código do anúncio como nome da pasta, por exemplo `1737138048260933494`. Sem código conhecido, use um nome em kebab-case. Cadastros anteriores mantêm seus caminhos até solicitação de migração.
 4. Coloque as fotos, os criativos, as referências e a descrição diretamente
    nessa pasta.
 5. Quando o produto vier de uma loja, crie `produto.json` com o ID e o link
@@ -75,7 +74,7 @@ Exemplo:
 ```text
 produtos/
 └── nanda/
-    └── nome-do-produto/
+    └── codigo-do-produto/
         ├── descricao-produto.txt
         ├── produto-01.webp
         ├── produto-02.webp

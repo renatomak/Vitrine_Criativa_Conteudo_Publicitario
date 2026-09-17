@@ -1,6 +1,6 @@
 # Catálogo de Produtos
 
-Total: **66 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **73 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
@@ -14,16 +14,22 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [Guia Fio de Contas Malandro com Firma Colar Religioso Maria Mariah](<produtos/maia/guia-fio-de-contas-malandro-com-firma>) — pasta: `guia-fio-de-contas-malandro-com-firma`; TikTok: `1735042380243502846`
 - [Guia Fio de Contas Preto e Roxo | Pombagira Maria Mulambo](<produtos/maia/guia-fio-de-contas-preto-roxo>) — pasta: `guia-fio-de-contas-preto-roxo`
 - [Kit 70 Incenso Indiano Várias Fragrâncias 10 Caixas 70 Varetas Limpeza de Ambiente e Espiritualidade](<produtos/maia/incensos-bhakti-aromas-variados>) — pasta: `incensos-bhakti-aromas-variados`
+- [kit 3 Alfazema de 1 L](<produtos/maia/kit-3-alfazema-1l>) — pasta: `kit-3-alfazema-1l`
 - [Kit 3 alfazemas de 1 litro](<produtos/maia/kit-3-alfazemas-1l>) — pasta: `kit-3-alfazemas-1l`
 - [quadro decorativo orixás umbanda religião decoração quarto sala hall](<produtos/maia/kit-3-quadros-decorativos-orixas>) — pasta: `kit-3-quadros-decorativos-orixas`
+- [quadro decorativo salve nossos orixás religião](<produtos/maia/kit-3-quadros-decorativos-salve-nossos-orixas>) — pasta: `kit-3-quadros-decorativos-salve-nossos-orixas`
 - [50 Incensos Backflow Cone Sortidos Cascata de Fumaça](<produtos/maia/kit-50-incensos-cone-backflow>) — pasta: `kit-50-incensos-cone-backflow`
 - [Livro Rezas e Mandingas de Preto Velho](<produtos/maia/livro-rezas-mandingas-preto-velho>) — pasta: `livro-rezas-mandingas-preto-velho`
+- [Pulseira de Pedra Natural — Olho de Tigre, Ônix e Hematita](<produtos/maia/pulseira-olho-de-tigre-onix-hematita-18cm>) — pasta: `pulseira-olho-de-tigre-onix-hematita-18cm`
 - [pulseira sete nos](<produtos/maia/pulseira-sete-nos>) — pasta: `pulseira-sete-nos`; descrição pendente
 
 ## nanda
 
+- [CALÇA FLARE BAILARINA FEMININA CINTURA ALTA EM SUPLEX PARA ACADEMIA, PILATES E USO DIÁRIO KARFOS - RP MODAS](<produtos/nanda/1737138048260933494>) — pasta: `1737138048260933494`; TikTok: `1737138048260933494`
 - [365 Hábitos Simples e Poderosos](<produtos/nanda/365-habitos-simples-e-poderosos>) — pasta: `365-habitos-simples-e-poderosos`; TikTok: `1732162539837097445`
 - [Batom Matte com Micro Brilho BOKKIN — 4g](<produtos/nanda/batom-matte-micro-brilho-bokkin-4g>) — pasta: `batom-matte-micro-brilho-bokkin-4g`
+- [Kit 3, 2 ou 1 unidade Blusa Feminina Manga Longa Cacharrel Com Gola Alta Sueter Em Ribana Premium](<produtos/nanda/blusa-feminina-manga-longa-gola-alta-ribana>) — pasta: `blusa-feminina-manga-longa-gola-alta-ribana`
+- [Blusa Manga Longa Feminina Segunda Pele com Gola Alta](<produtos/nanda/blusa-feminina-manga-longa-plus-size>) — pasta: `blusa-feminina-manga-longa-plus-size`
 - [Blusa Manga Longa Feminina Blusa Feminina Elegante Elegante Blusa Segunda Pele Feminino Blusa Gola Alta Feminino](<produtos/nanda/blusa-segunda-pele-canelada-gola-alta-slim-mid-plus-size>) — pasta: `blusa-segunda-pele-canelada-gola-alta-slim-mid-plus-size`; TikTok: `1736451832883480352`
 - [Body Canelado Feminino Sem Manga Gola Redonda Tecido Canelado Premium Modelagem Perfeita](<produtos/nanda/body-canelado-feminino-sem-manga>) — pasta: `body-canelado-feminino-sem-manga`
 - [calca feminina](<produtos/nanda/calca-feminina>) — pasta: `calca-feminina`; descrição pendente
@@ -64,6 +70,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [Kit Inoar Latifah Sh 500 Ml + Cond Argan E Mirra 500 Ml - Enriquecido com perfumaria Árabe.](<produtos/nanda/kit-inoar-latifah-shampoo-condicionador-500ml>) — pasta: `kit-inoar-latifah-shampoo-condicionador-500ml`
 - [Kit 2 Lava Roupas Sabão Líquido 5L Lavagem Profissional - Ares Action Green](<produtos/nanda/kit-sabao-liquido-ares-action-green-10l>) — pasta: `kit-sabao-liquido-ares-action-green-10l`
 - [Kit Shortinho Curto Feminino Plus Size P M G GG Anágua Short Segunda Pele Vestido Comportado Calcinha Cós Duplo Confortável Moda Intima Lingerie Feminina Adulto.](<produtos/nanda/kit-shorts-segunda-pele>) — pasta: `kit-shorts-segunda-pele`
+- [livros](<produtos/nanda/livros>) — pasta: `livros`; descrição pendente
 - [macaquinho feminino](<produtos/nanda/macaquinho-feminino>) — pasta: `macaquinho-feminino`; descrição pendente
 - [moletom feminino](<produtos/nanda/moletom-feminino>) — pasta: `moletom-feminino`; descrição pendente
 - [mulheres de deus 365 dias](<produtos/nanda/mulheres-de-deus-365-dias>) — pasta: `mulheres-de-deus-365-dias`; descrição pendente
@@ -78,16 +85,18 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 
 ## Alertas de organização
 
-- Títulos repetidos: **1 grupos**.
+- Títulos repetidos: **2 grupos**.
+  - Kit 3, 2 ou 1 unidade Blusa Feminina Manga Longa Cacharrel Com Gola Alta Sueter Em Ribana Premium: `nanda/blusa-feminina-manga-longa-gola-alta-ribana`, `nanda/kit-1-2-3-blusas-cacharrel-gola-alta-ribana-premium`
   - KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral Larga Conforto Lingerie: `nanda/kit-calcinha-calcola-cintura-alta-lisa-redutora`, `nanda/kit-calcinha-cintura-alta-zero-culote`
 - Pastas fora do padrão kebab-case: **0**.
-- Produtos sem `descricao-produto.txt`: **12**.
+- Produtos sem `descricao-produto.txt`: **13**.
   - `maia/pulseira-sete-nos`
   - `nanda/calca-feminina`
   - `nanda/conjunto-cropped-shorts-purple-summer`
   - `nanda/garrafa-termica-650ml`
   - `nanda/kit-6-ou-12-pares-meias-cano-curto`
   - `nanda/kit-caneca-bandeja-pequeno-principe`
+  - `nanda/livros`
   - `nanda/macaquinho-feminino`
   - `nanda/moletom-feminino`
   - `nanda/mulheres-de-deus-365-dias`

@@ -2,7 +2,7 @@
 
 Personagem que vende produtos relacionados às religiões de matriz africana.
 
-Os produtos da Maia ficam diretamente em `produtos/maia/nome-do-produto/`,
+Os produtos da Maia ficam diretamente em `produtos/maia/codigo-do-produto/`,
 sem divisão em subpastas por categoria. Cada produto mantém sua própria
 pasta com descrição, imagens e metadados do anúncio.
 
