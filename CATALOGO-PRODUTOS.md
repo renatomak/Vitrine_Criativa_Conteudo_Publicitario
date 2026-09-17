@@ -1,6 +1,6 @@
 # Catálogo de Produtos
 
-Total: **64 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **66 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
@@ -24,6 +24,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 
 - [365 Hábitos Simples e Poderosos](<produtos/nanda/365-habitos-simples-e-poderosos>) — pasta: `365-habitos-simples-e-poderosos`; TikTok: `1732162539837097445`
 - [Batom Matte com Micro Brilho BOKKIN — 4g](<produtos/nanda/batom-matte-micro-brilho-bokkin-4g>) — pasta: `batom-matte-micro-brilho-bokkin-4g`
+- [Blusa Manga Longa Feminina Blusa Feminina Elegante Elegante Blusa Segunda Pele Feminino Blusa Gola Alta Feminino](<produtos/nanda/blusa-segunda-pele-canelada-gola-alta-slim-mid-plus-size>) — pasta: `blusa-segunda-pele-canelada-gola-alta-slim-mid-plus-size`; TikTok: `1736451832883480352`
 - [Body Canelado Feminino Sem Manga Gola Redonda Tecido Canelado Premium Modelagem Perfeita](<produtos/nanda/body-canelado-feminino-sem-manga>) — pasta: `body-canelado-feminino-sem-manga`
 - [calca feminina](<produtos/nanda/calca-feminina>) — pasta: `calca-feminina`; descrição pendente
 - [Calça jeans skinny feminina plus size de cintura alta](<produtos/nanda/calca-jeans-plus-size-feminina-cintura-alta>) — pasta: `calca-jeans-plus-size-feminina-cintura-alta`
@@ -46,6 +47,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [2 Sutiãs Alta Sustentação Sem Bojo PLUS SIZE Reforçado Alça Com Regulagem Feminino](<produtos/nanda/kit-2-sutias-alta-sustentacao-sem-bojo-plus-size>) — pasta: `kit-2-sutias-alta-sustentacao-sem-bojo-plus-size`
 - [Kit 3 Shorts Feminino Malha Canelada Confortável Casual](<produtos/nanda/kit-3-shorts-canelados>) — pasta: `kit-3-shorts-canelados`
 - [KIT 3 Top Sutiã alça fina importado com bojo removível, conforto e estilo](<produtos/nanda/kit-3-tops-sutia-alca-fina-bojo-removivel>) — pasta: `kit-3-tops-sutia-alca-fina-bojo-removivel`; TikTok: `1736272980249970344`
+- [Kit 4 Regatas Blusas Plus Size Feminina T-shirt Manga Curta Basica Lisa Cobre Leg Academia Exercicios Tapa Bumbum](<produtos/nanda/kit-4-regatas-plus-size-viscolycra>) — pasta: `kit-4-regatas-plus-size-viscolycra`; TikTok: `1735075349184088061`
 - [Kit 5 Calcinhas Fio Duplo de Renda com Regulagem na Lateral Sexy Lingerie Moda Íntima Premium](<produtos/nanda/kit-5-calcinhas-fio-duplo-renda-regulagem-lateral>) — pasta: `kit-5-calcinhas-fio-duplo-renda-regulagem-lateral`
 - [Kit 5 Calcinhas Fio Duplo Empina Bumbum Sem Costura Conforto Sensual](<produtos/nanda/kit-5-calcinhas-fio-duplo-sem-costura>) — pasta: `kit-5-calcinhas-fio-duplo-sem-costura`
 - [Kit 5 camisas femina academia Super Confortavel e Leve](<produtos/nanda/kit-5-camisetas-academia>) — pasta: `kit-5-camisetas-academia`
