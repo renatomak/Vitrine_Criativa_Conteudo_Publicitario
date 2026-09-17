@@ -1,0 +1,66 @@
+CRIATIVO UGC — VÍDEO DE 10 SEGUNDOS
+Produto: Sutiã Sustentação Alças Espumadas DeMillus 61004
+
+1. RESUMO DO DNA ESCOLHIDO
+
+Produto preto apresentado desde o primeiro quadro sobre a bancada, movimento curto das mãos nas alças, close na alça espumada e corte seco para o produto em uso com CTA. O benefício demonstrado é conforto aliado à sustentação, sem promessas corporais.
+
+2. FALA COMPLETA
+
+Se alças finas incomodam, olha isso: alças espumadas e laterais largas ajudam na sustentação. Confira os detalhes no carrinho.
+
+3. PROMPT COMPLETO DO VÍDEO
+
+Crie um vídeo UGC comercial ultrarrealista, vertical 9:16, duração exata de 10 segundos, alta definição, ritmo dinâmico e aparência de gravação espontânea para TikTok Shop.
+
+REFERÊNCIAS OBRIGATÓRIAS
+- Use foto-base-video-10s-01.png como quadro inicial obrigatório, preservando cenário, enquadramento, produto preto, mãos e composição.
+- Use produto-01.png para preservar o formato frontal, o decote em V, a abertura central, a modelagem anatômica e as proporções reais do sutiã DeMillus 61004.
+- Use produto-02-costas-preto.png para preservar a cor preta, as alças largas reguláveis, as laterais largas, o recorte traseiro e o fechamento central com colchete duplo.
+- Mostre exatamente uma unidade do sutiã, na cor preta, sem mudar a identidade do produto entre os cortes.
+
+AMBIENTE E MODELO
+Quarto brasileiro aconchegante com área de closet, parede bege-clara, espelho vertical desfocado ao fundo, móvel de madeira clara e iluminação natural suave entrando pela lateral. Decoração discreta, sem competir com o produto. Nos primeiros quatro segundos, aparecem somente o produto e duas mãos. Depois do corte para uso, mostrar modelo adulta plus size, aparência natural e comercial, cabelo preso, movimentos curtos e seguros, sem poses sensuais. Enquadramentos respeitosos de moda íntima, do busto até pouco acima da cintura, sem foco corporal exagerado.
+
+ROTEIRO VISUAL E TEMPORAL
+
+0–2 segundos — REVELAÇÃO IMEDIATA
+Começar exatamente com a composição de foto-base-video-10s-01.png: o sutiã preto grande e reconhecível sobre a bancada de madeira clara. Duas mãos seguram suavemente as alças largas, uma de cada lado, e as elevam poucos centímetros para iniciar a demonstração. Movimento natural e fisicamente possível. Gancho de voz começa imediatamente: “Se alças finas incomodam, olha isso”.
+
+2–4 segundos — APRESENTAÇÃO
+Corte seco para close frontal nítido da alça direita e da lateral larga. Uma mão pressiona levemente a alça entre dois dedos para evidenciar o acolchoamento, sem puxar nem deformar o tecido; a outra mantém o produto organizado sobre a bancada. A fala continua: “alças espumadas”.
+
+4–7 segundos — PROVA VISUAL
+Corte seco para ângulo frontal em três quartos. Close moderado na alça espumada, na lateral larga e no decote em V. A modelo pressiona levemente a alça entre dois dedos para evidenciar o acolchoamento e solta; o material retorna naturalmente à forma. A fala acompanha exatamente a imagem: “e laterais largas ajudam na sustentação”.
+
+7–10 segundos — USO, RESULTADO E CTA
+Corte seco para plano frontal do busto até pouco acima da cintura. A modelo ajeita a postura de forma natural, passa uma mão pela lateral do sutiã e termina olhando para a câmera com expressão confiante e discreto sorriso. O sutiã continua exatamente preto, sem aro, sem bojo, com o mesmo formato e proporções. Uma seta vermelha simples, bidimensional e discretamente piscante aparece no canto inferior esquerdo apontando para baixo, sem cobrir o produto. A fala encerra com energia: “Confira os detalhes no carrinho.”
+
+DIREÇÃO DE VOZ
+Diálogo em português brasileiro. Voz feminina adulta, natural, espontânea e confiante. Ritmo levemente acelerado, dicção clara, entonação de problema comum no gancho, pequena pausa depois de “olha isso”, ênfase natural em “alças espumadas” e CTA final mais enérgico. Não soar robótica, lenta ou como locução institucional.
+
+CÂMERA E MOVIMENTO
+Câmera vertical 9:16, produto grande e nítido desde o primeiro quadro, iluminação clara e coerente, dois ou mais ângulos, cortes secos, contato e sombras realistas. Microtremores discretos de UGC apenas no plano médio; close estável. Sem zoom brusco. A câmera nunca aparece.
+
+SEM TEXTO NA TELA
+Não inserir headline, legenda automática, preço, promoção, logotipo, marca-d’água ou interface. Usar somente a seta vermelha final.
+
+NEGATIVE PROMPT ESPECÍFICO
+Não alterar o modelo DeMillus 61004; não criar aro ou bojo; não afinar as alças; não remover a espuma das alças; não estreitar as laterais; não trocar o colchete duplo; não mudar o decote em V nem a abertura central; não trocar a cor preta; não misturar preto e bege na mesma peça; não duplicar o sutiã; não mostrar kit; não adicionar renda, transparência, enchimento, zíper, fecho frontal, barbatanas, laços ou acessórios inexistentes; não inventar efeito modelador, emagrecimento ou redução de medidas; não deformar busto ou corpo; não sensualizar; não mostrar menor de idade; não criar mãos extras, terceira mão, dedos extras ou deformados; não mudar unhas ou tom de pele entre cortes; não usar movimentos robóticos; não deixar o produto desaparecer ou mudar de formato; não mostrar calcinha como parte da venda; não inserir texto, preço, promoção, legenda automática, logotipo, marca-d’água, celular, tela, moldura, interface, botões ou equipamentos de gravação; sem baixa nitidez, física incorreta ou sombras incoerentes.
+
+4. DESCRIÇÃO PARA TIKTOK SHOP E HASHTAGS
+
+Sutiã DeMillus 61004 com alças largas espumadas, laterais largas e modelagem sem aro e sem bojo para mais conforto na rotina. Confira tamanhos e cores no carrinho. 🛒
+
+#TikTokShop #DeMillus #SutiaDeSustentacao #ModaIntima #PlusSize
+
+5. LISTA DE VERIFICAÇÃO DO VÍDEO GERADO
+
+- O sutiã aparece no primeiro quadro e permanece preto em todos os cortes.
+- Há exatamente uma unidade, sem peças extras apresentadas como parte da venda.
+- Alças largas espumadas, laterais largas, decote em V e colchete duplo estão fiéis às referências.
+- A prova visual acompanha a fala e não deforma o produto.
+- Existem cortes traseiro, três quartos e frontal.
+- A modelo é adulta, plus size e apresentada sem sensualização desnecessária.
+- A fala cabe naturalmente em 10 segundos e termina com CTA.
+- Não há promessas de emagrecimento, textos, preços ou urgência falsa.

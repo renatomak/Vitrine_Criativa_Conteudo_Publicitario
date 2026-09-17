@@ -1,15 +1,18 @@
 # Vitrine Criativa — Conteúdo Publicitário
 
 Acervo de materiais para criação de conteúdo publicitário, organizado por
-categoria e produto.
+influencer e produto.
+
+Para localizar rapidamente um item, consulte o
+[Catálogo de Produtos](CATALOGO-PRODUTOS.md).
 
 ## Onde encontrar cada material
 
 ```text
 .
 ├── produtos/
-│   └── categoria/
-│       └── nome-do-produto/
+│   └── maia/ ou nanda/
+│       └── codigo-do-produto/
 │           ├── descricao-produto.txt
 │           ├── produto-01.webp
 │           ├── criativo-01.png
@@ -17,7 +20,7 @@ categoria e produto.
 │           ├── videos/       (somente quando houver vídeos)
 │           └── arquivos/     (somente para pacotes ZIP e fontes)
 ├── referencias/
-│   ├── modelos/
+│   ├── maia/ e nanda/
 │   └── unhas-artisticas-alongadas/
 └── skills/
 ```
@@ -27,19 +30,51 @@ subpasta `imagens`.
 
 ## Como adicionar um produto
 
-1. Escolha a categoria em `produtos/`.
-2. Crie uma pasta com o nome do produto em letras minúsculas, sem acentos e
-   com palavras separadas por hífen.
-3. Coloque as fotos, os criativos, as referências e a descrição diretamente
+1. Antes de criar uma pasta, execute `scripts/localizar-produto.ps1` passando
+   o link completo ou o título do anúncio. Se houver correspondência, revise a
+   pasta indicada em vez de criar um novo cadastro.
+2. Escolha a influencer em `produtos/`: Maia para artigos de religiões de matriz africana e o acervo espiritual relacionado; Nanda para os demais produtos.
+3. Use o código do anúncio como nome da pasta, por exemplo `1737138048260933494`. Sem código conhecido, use um nome em kebab-case. Cadastros anteriores mantêm seus caminhos até solicitação de migração.
+4. Coloque as fotos, os criativos, as referências e a descrição diretamente
    nessa pasta.
-4. Crie `videos/` ou `arquivos/` apenas se esses materiais existirem.
+5. Quando o produto vier de uma loja, crie `produto.json` com o ID e o link
+   canônico do anúncio, sem parâmetros de rastreamento.
+6. Execute `scripts/atualizar-catalogo.ps1` para atualizar o índice navegável
+   em `CATALOGO-PRODUTOS.md`.
+
+Exemplo de verificação preventiva:
+
+```powershell
+.\scripts\localizar-produto.ps1 "https://shop.tiktok.com/br/pdp/123456789"
+```
+
+O localizador compara primeiro o ID do anúncio e depois o título, os apelidos
+e o nome da pasta. Correspondências fortes devem ser tratadas como produto já
+cadastrado até que as imagens demonstrem o contrário.
+
+Exemplo de `produto.json`:
+
+```json
+{
+  "nome": "Nome comercial do produto",
+  "categoria": "categoria",
+  "aliases": ["Outro nome usado no anúncio"],
+  "fontes": [
+    {
+      "plataforma": "tiktok-shop",
+      "produto_id": "123456789",
+      "url": "https://shop.tiktok.com/br/pdp/123456789"
+    }
+  ]
+}
+```
 
 Exemplo:
 
 ```text
 produtos/
-└── moda-feminina/
-    └── nome-do-produto/
+└── nanda/
+    └── codigo-do-produto/
         ├── descricao-produto.txt
         ├── produto-01.webp
         ├── produto-02.webp
@@ -58,17 +93,21 @@ produtos/
 - Sequências descritivas existentes podem ser mantidas, por exemplo
   `01-visao-geral-pedra.jpeg`.
 
-## Categorias atuais
+## Influencers e organização
 
-- `beleza-e-perfumaria`
-- `brinquedos-e-hobbies`
-- `casa-e-cozinha`
-- `espiritualidade-e-artesanato`
-- `limpeza`
-- `livros`
-- `moda-feminina`
-- `moda-masculina`
+- [Maia](produtos/maia/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
+- [Nanda](produtos/nanda/README.md): influencer de IA com perfil mais evangélico, responsável pelos demais produtos.
 
+As pastas dos produtos ficam diretamente dentro de cada influencer. O campo
+`categoria` dos metadados continua descrevendo o tipo de produto; o campo
+`personagem` identifica `maia` ou `nanda`.
+
+Alfazemas, incensos, contas de pedra e pulseira de sete nós foram reunidos na
+Maia por afinidade editorial com o acervo espiritual. Essa organização não
+atribui origem africana nem uso religioso exclusivo a esses itens.
+
+As referências de cada influencer ficam em `referencias/maia/` e
+`referencias/nanda/`. A coleção geral de unhas permanece compartilhada.
 Materiais que servem para vários produtos, como fotos de modelos e referências
 visuais gerais, devem ficar em `referencias/`.
 
@@ -89,3 +128,7 @@ misturados às imagens principais do produto.
 Alguns produtos ainda não possuem `descricao-produto.txt`. Isso não impede o
 uso das imagens, mas adicionar esse arquivo facilita buscas e a criação futura
 de anúncios.
+
+## Referências de unhas
+
+A coleção possui 52 imagens organizadas. Consulte o [índice de unhas](referencias/unhas-artisticas-alongadas/README.md).
