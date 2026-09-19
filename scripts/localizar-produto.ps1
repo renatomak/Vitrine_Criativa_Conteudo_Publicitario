@@ -5,7 +5,7 @@ param(
 
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path -Parent $PSScriptRoot
-$productsRoot = Join-Path $projectRoot 'produtos'
+$productFolders = @(& (Join-Path $PSScriptRoot 'listar-pastas-produtos.ps1'))
 
 function Convert-ToSearchText {
     param([string]$Text)
@@ -87,33 +87,33 @@ function Get-QueryDetails {
 }
 
 $query = Get-QueryDetails $Consulta
-$records = foreach ($category in Get-ChildItem -LiteralPath $productsRoot -Directory) {
-    foreach ($directory in Get-ChildItem -LiteralPath $category.FullName -Directory) {
-        $metadataPath = Join-Path $directory.FullName 'produto.json'
-        $metadata = $null
-        if (Test-Path -LiteralPath $metadataPath) {
-            try { $metadata = Get-Content -Raw -LiteralPath $metadataPath | ConvertFrom-Json } catch {}
-        }
-
-        $title = if ($metadata.nome) { [string]$metadata.nome } else { Get-FirstProductTitle $directory }
-        $aliases = @($metadata.aliases)
-        $sourceIds = @($metadata.fontes | ForEach-Object { [string]$_.produto_id } | Where-Object { $_ })
-        $scores = @(
-            Get-TitleSimilarity $query.Title $title
-            Get-TitleSimilarity $query.Title ($directory.Name -replace '-', ' ')
-            $aliases | ForEach-Object { Get-TitleSimilarity $query.Title ([string]$_) }
-        )
-
-        [PSCustomObject]@{
-            Personagem = $category.Name
-            Pasta = $directory.Name
-            Titulo = $title
-            Caminho = $directory.FullName
-            MesmoId = [bool]($query.ProductId -and $query.ProductId -in $sourceIds)
-            Similaridade = [Math]::Round(($scores | Measure-Object -Maximum).Maximum, 2)
-        }
+$records = @(foreach ($folder in $productFolders) {
+    $directory = $folder.Directory
+    $metadataPath = Join-Path $directory.FullName 'produto.json'
+    $metadata = $null
+    if (Test-Path -LiteralPath $metadataPath) {
+        try { $metadata = Get-Content -Raw -LiteralPath $metadataPath | ConvertFrom-Json } catch {}
     }
-}
+
+    $title = if ($metadata.nome) { [string]$metadata.nome } else { Get-FirstProductTitle $directory }
+    $aliases = @($metadata.aliases)
+    $sourceIds = @($metadata.fontes | ForEach-Object { [string]$_.produto_id } | Where-Object { $_ })
+    if ($directory.Name -match '^(\d{10,})(?:-|$)') { $sourceIds += $Matches[1] }
+    $scores = @(
+        Get-TitleSimilarity $query.Title $title
+        Get-TitleSimilarity $query.Title ($directory.Name -replace '-', ' ')
+        $aliases | ForEach-Object { Get-TitleSimilarity $query.Title ([string]$_) }
+    )
+
+    [PSCustomObject]@{
+        Personagem = $folder.Personagem
+        Pasta = $directory.Name
+        Titulo = $title
+        Caminho = $directory.FullName
+        MesmoId = [bool]($query.ProductId -and $query.ProductId -in $sourceIds)
+        Similaridade = [Math]::Round(($scores | Measure-Object -Maximum).Maximum, 2)
+    }
+})
 
 $matches = @($records |
     Where-Object { $_.MesmoId -or $_.Similaridade -ge 0.60 } |

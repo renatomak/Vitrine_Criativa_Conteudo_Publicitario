@@ -6,6 +6,15 @@ influencer e produto.
 Para localizar rapidamente um item, consulte o
 [Catálogo de Produtos](CATALOGO-PRODUTOS.md).
 
+## Organização atual do acervo
+
+Os cadastros existentes estão em `MAIA-MACUMBA/` e `NANDA-SALES/`.
+As referências das personagens estão em `MAIA-MACUMBA/ModeloIA/` e
+`NANDA-SALES/Modelo-IA/`. O catálogo e o localizador reconhecem essas
+pastas e também a estrutura `produtos/maia/` e `produtos/nanda/`.
+Os caminhos existentes são preservados; a estrutura abaixo é a orientação
+para novos cadastros, conforme `AGENTS.md`.
+
 ## Onde encontrar cada material
 
 ```text
@@ -95,8 +104,8 @@ produtos/
 
 ## Influencers e organização
 
-- [Maia](produtos/maia/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
-- [Nanda](produtos/nanda/README.md): influencer de IA com perfil mais evangélico, responsável pelos demais produtos.
+- [Maia](MAIA-MACUMBA/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
+- [Nanda](NANDA-SALES/README.md): influencer de IA com perfil mais evangélico, responsável pelos demais produtos.
 
 As pastas dos produtos ficam diretamente dentro de cada influencer. O campo
 `categoria` dos metadados continua descrevendo o tipo de produto; o campo
@@ -106,7 +115,7 @@ Alfazemas, incensos, contas de pedra e pulseira de sete nós foram reunidos na
 Maia por afinidade editorial com o acervo espiritual. Essa organização não
 atribui origem africana nem uso religioso exclusivo a esses itens.
 
-As referências de cada influencer ficam em `referencias/maia/` e
+O destino previsto para novas referências de cada influencer é `referencias/maia/` e
 `referencias/nanda/`. A coleção geral de unhas permanece compartilhada.
 Materiais que servem para vários produtos, como fotos de modelos e referências
 visuais gerais, devem ficar em `referencias/`.
@@ -132,3 +141,4 @@ de anúncios.
 ## Referências de unhas
 
 A coleção possui 52 imagens organizadas. Consulte o [índice de unhas](referencias/unhas-artisticas-alongadas/README.md).
+
