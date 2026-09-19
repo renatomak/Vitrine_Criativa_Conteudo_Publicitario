@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path -Parent $PSScriptRoot
-$productsRoot = Join-Path $projectRoot 'produtos'
+$productFolders = @(& (Join-Path $PSScriptRoot 'listar-pastas-produtos.ps1'))
 $catalogPath = Join-Path $projectRoot 'CATALOGO-PRODUTOS.md'
 
 function Get-FirstProductTitle {
@@ -18,24 +18,23 @@ function Get-FirstProductTitle {
     return $Directory.Name -replace '-', ' '
 }
 
-$records = foreach ($category in Get-ChildItem -LiteralPath $productsRoot -Directory | Sort-Object Name) {
-    foreach ($directory in Get-ChildItem -LiteralPath $category.FullName -Directory | Sort-Object Name) {
-        $metadataPath = Join-Path $directory.FullName 'produto.json'
-        $metadata = $null
-        if (Test-Path -LiteralPath $metadataPath) {
-            try { $metadata = Get-Content -Raw -LiteralPath $metadataPath | ConvertFrom-Json } catch {}
-        }
-        $title = if ($metadata.nome) { [string]$metadata.nome } else { Get-FirstProductTitle $directory }
-        [PSCustomObject]@{
-            Personagem = $category.Name
-            Pasta = $directory.Name
-            Titulo = $title
-            CaminhoRelativo = "produtos/$($category.Name)/$($directory.Name)"
-            TemDescricao = Test-Path -LiteralPath (Join-Path $directory.FullName 'descricao-produto.txt')
-            TikTokId = @($metadata.fontes | Where-Object plataforma -eq 'tiktok-shop' | Select-Object -First 1).produto_id
-        }
+$records = @(foreach ($folder in $productFolders) {
+    $directory = $folder.Directory
+    $metadataPath = Join-Path $directory.FullName 'produto.json'
+    $metadata = $null
+    if (Test-Path -LiteralPath $metadataPath) {
+        try { $metadata = Get-Content -Raw -LiteralPath $metadataPath | ConvertFrom-Json } catch {}
     }
-}
+    $title = if ($metadata.nome) { [string]$metadata.nome } else { Get-FirstProductTitle $directory }
+    [PSCustomObject]@{
+        Personagem = $folder.Personagem
+        Pasta = $directory.Name
+        Titulo = $title
+        CaminhoRelativo = $folder.CaminhoRelativo
+        TemDescricao = Test-Path -LiteralPath (Join-Path $directory.FullName 'descricao-produto.txt')
+        TikTokId = @($metadata.fontes | Where-Object plataforma -eq 'tiktok-shop' | Select-Object -First 1).produto_id
+    }
+})
 
 $lines = [Collections.Generic.List[string]]::new()
 $lines.Add('# Catálogo de Produtos')
@@ -65,13 +64,13 @@ $lines.Add('## Alertas de organização')
 $lines.Add('')
 $lines.Add("- Títulos repetidos: **$($duplicateTitles.Count) grupos**.")
 foreach ($duplicate in $duplicateTitles) {
-    $folders = $duplicate.Group | ForEach-Object { "``$($_.Personagem)/$($_.Pasta)``" }
+    $folders = $duplicate.Group | ForEach-Object { "``$($_.CaminhoRelativo)``" }
     $lines.Add("  - $($duplicate.Name): $($folders -join ', ')")
 }
 $lines.Add("- Pastas fora do padrão kebab-case: **$($invalidFolders.Count)**.")
-foreach ($record in $invalidFolders) { $lines.Add("  - ``$($record.Personagem)/$($record.Pasta)``") }
+foreach ($record in $invalidFolders) { $lines.Add("  - ``$($record.CaminhoRelativo)``") }
 $lines.Add("- Produtos sem ``descricao-produto.txt``: **$($missingDescriptions.Count)**.")
-foreach ($record in $missingDescriptions) { $lines.Add("  - ``$($record.Personagem)/$($record.Pasta)``") }
+foreach ($record in $missingDescriptions) { $lines.Add("  - ``$($record.CaminhoRelativo)``") }
 
 Set-Content -LiteralPath $catalogPath -Value $lines -Encoding utf8
 Write-Output "Catálogo atualizado: $catalogPath"
