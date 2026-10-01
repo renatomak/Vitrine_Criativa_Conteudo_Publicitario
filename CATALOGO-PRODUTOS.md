@@ -1,27 +1,30 @@
 # Catálogo de Produtos
 
-Total: **73 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **75 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
 ## maia
 
-- [Alfazema de 1L Para Banhos e Limpeza de Ambiente](<MAIA-MACUMBA/alfazema-1l-banhos-limpeza-ambiente>) — pasta: `alfazema-1l-banhos-limpeza-ambiente`; TikTok: `1736184794105939832`
-- [Alfazema Rosa Negra - Deo Colônia - Uso Diário](<MAIA-MACUMBA/alfazema-rosa-negra>) — pasta: `alfazema-rosa-negra`
-- [Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah](<MAIA-MACUMBA/buzios-naturais-artesanato>) — pasta: `buzios-naturais-artesanato`
-- [Fio de Pedra Natural 8MM - Aproximadamente 45 Bolinhas para Japamalas Pulseiras Colares e Terços Qualidade e Beleza](<MAIA-MACUMBA/fio-pedra-natural-8mm-45-bolinhas>) — pasta: `fio-pedra-natural-8mm-45-bolinhas`
-- [Guia Fio de Contas Exu e Pombagira Colar Religioso Umbanda Candomblé com e sem firma](<MAIA-MACUMBA/guia-fio-de-contas-exu-pombagira>) — pasta: `guia-fio-de-contas-exu-pombagira`
-- [Guia Fio de Contas Malandro com Firma Colar Religioso Maria Mariah](<MAIA-MACUMBA/guia-fio-de-contas-malandro-com-firma>) — pasta: `guia-fio-de-contas-malandro-com-firma`; TikTok: `1735042380243502846`
-- [Guia Fio de Contas Preto e Roxo | Pombagira Maria Mulambo](<MAIA-MACUMBA/guia-fio-de-contas-preto-roxo>) — pasta: `guia-fio-de-contas-preto-roxo`
-- [Kit 70 Incenso Indiano Várias Fragrâncias 10 Caixas 70 Varetas Limpeza de Ambiente e Espiritualidade](<MAIA-MACUMBA/incensos-bhakti-aromas-variados>) — pasta: `incensos-bhakti-aromas-variados`
-- [kit 3 Alfazema de 1 L](<MAIA-MACUMBA/kit-3-alfazema-1l>) — pasta: `kit-3-alfazema-1l`
-- [Kit 3 alfazemas de 1 litro](<MAIA-MACUMBA/kit-3-alfazemas-1l>) — pasta: `kit-3-alfazemas-1l`
-- [quadro decorativo orixás umbanda religião decoração quarto sala hall](<MAIA-MACUMBA/kit-3-quadros-decorativos-orixas>) — pasta: `kit-3-quadros-decorativos-orixas`
-- [quadro decorativo salve nossos orixás religião](<MAIA-MACUMBA/kit-3-quadros-decorativos-salve-nossos-orixas>) — pasta: `kit-3-quadros-decorativos-salve-nossos-orixas`
-- [50 Incensos Backflow Cone Sortidos Cascata de Fumaça](<MAIA-MACUMBA/kit-50-incensos-cone-backflow>) — pasta: `kit-50-incensos-cone-backflow`
-- [Livro Rezas e Mandingas de Preto Velho](<MAIA-MACUMBA/livro-rezas-mandingas-preto-velho>) — pasta: `livro-rezas-mandingas-preto-velho`
-- [Pulseira de Pedra Natural — Olho de Tigre, Ônix e Hematita](<MAIA-MACUMBA/pulseira-olho-de-tigre-onix-hematita-18cm>) — pasta: `pulseira-olho-de-tigre-onix-hematita-18cm`
-- [pulseira sete nos](<MAIA-MACUMBA/pulseira-sete-nos>) — pasta: `pulseira-sete-nos`; descrição pendente
+- [Banhos e Ervas na Força dos Orixás](<MAIA/1734189767118783667-banho-de-ervas>) — pasta: `1734189767118783667-banho-de-ervas`; TikTok: `1734189767118783667`
+- [Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah](<MAIA/1734909017686902526-buzios-naturais-artesanato>) — pasta: `1734909017686902526-buzios-naturais-artesanato`
+- [kit 3 Alfazema de 1 L](<MAIA/1736184832898271096-kit-3-alfazema-1l>) — pasta: `1736184832898271096-kit-3-alfazema-1l`
+- [Quadro Decorativo Orixás Iemanjá Oxum e Iansã Mosaico Sala Grande Envio Rápido Pronta Entrega](<MAIA/1736560719464400837-quadros-decorativos-orixas>) — pasta: `1736560719464400837-quadros-decorativos-orixas`; TikTok: `1736560719464400837`
+- [Alfazema de 1L Para Banhos e Limpeza de Ambiente](<MAIA/alfazema-1l-banhos-limpeza-ambiente>) — pasta: `alfazema-1l-banhos-limpeza-ambiente`; TikTok: `1736184794105939832`
+- [Alfazema Rosa Negra - Deo Colônia - Uso Diário](<MAIA/alfazema-rosa-negra>) — pasta: `alfazema-rosa-negra`
+- [Banhos e Ervas na Força dos Orixás](<MAIA/banhos-e-ervas-na-forca-dos-orixas>) — pasta: `banhos-e-ervas-na-forca-dos-orixas`
+- [Fio de Pedra Natural 8MM - Aproximadamente 45 Bolinhas para Japamalas Pulseiras Colares e Terços Qualidade e Beleza](<MAIA/fio-pedra-natural-8mm-45-bolinhas>) — pasta: `fio-pedra-natural-8mm-45-bolinhas`
+- [Guia Fio de Contas Exu e Pombagira Colar Religioso Umbanda Candomblé com e sem firma](<MAIA/guia-fio-de-contas-exu-pombagira>) — pasta: `guia-fio-de-contas-exu-pombagira`
+- [Guia Fio de Contas Malandro com Firma Colar Religioso Maria Mariah](<MAIA/guia-fio-de-contas-malandro-com-firma>) — pasta: `guia-fio-de-contas-malandro-com-firma`; TikTok: `1735042380243502846`
+- [Guia Fio de Contas Preto e Roxo | Pombagira Maria Mulambo](<MAIA/guia-fio-de-contas-preto-roxo>) — pasta: `guia-fio-de-contas-preto-roxo`
+- [Guia Fio de Contas Pomba Gira com Rosas — 65 cm](<MAIA/guia-pomba-gira-rosas-65cm>) — pasta: `guia-pomba-gira-rosas-65cm`
+- [Kit 70 Incenso Indiano Várias Fragrâncias 10 Caixas 70 Varetas Limpeza de Ambiente e Espiritualidade](<MAIA/incensos-bhakti-aromas-variados>) — pasta: `incensos-bhakti-aromas-variados`
+- [quadro decorativo orixás umbanda religião decoração quarto sala hall](<MAIA/kit-3-quadros-decorativos-orixas>) — pasta: `kit-3-quadros-decorativos-orixas`
+- [quadro decorativo salve nossos orixás religião](<MAIA/kit-3-quadros-decorativos-salve-nossos-orixas>) — pasta: `kit-3-quadros-decorativos-salve-nossos-orixas`
+- [50 Incensos Backflow Cone Sortidos Cascata de Fumaça](<MAIA/kit-50-incensos-cone-backflow>) — pasta: `kit-50-incensos-cone-backflow`
+- [Livro Rezas e Mandingas de Preto Velho](<MAIA/livro-rezas-mandingas-preto-velho>) — pasta: `livro-rezas-mandingas-preto-velho`
+- [Pulseira de Pedra Natural — Olho de Tigre, Ônix e Hematita](<MAIA/pulseira-olho-de-tigre-onix-hematita-18cm>) — pasta: `pulseira-olho-de-tigre-onix-hematita-18cm`
+- [pulseira sete nos](<MAIA/pulseira-sete-nos>) — pasta: `pulseira-sete-nos`; descrição pendente
 
 ## nanda
 
@@ -70,7 +73,6 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 - [Kit Inoar Latifah Sh 500 Ml + Cond Argan E Mirra 500 Ml - Enriquecido com perfumaria Árabe.](<NANDA-SALES/kit-inoar-latifah-shampoo-condicionador-500ml>) — pasta: `kit-inoar-latifah-shampoo-condicionador-500ml`
 - [Kit 2 Lava Roupas Sabão Líquido 5L Lavagem Profissional - Ares Action Green](<NANDA-SALES/kit-sabao-liquido-ares-action-green-10l>) — pasta: `kit-sabao-liquido-ares-action-green-10l`
 - [Kit Shortinho Curto Feminino Plus Size P M G GG Anágua Short Segunda Pele Vestido Comportado Calcinha Cós Duplo Confortável Moda Intima Lingerie Feminina Adulto.](<NANDA-SALES/kit-shorts-segunda-pele>) — pasta: `kit-shorts-segunda-pele`
-- [livros](<NANDA-SALES/livros>) — pasta: `livros`; descrição pendente
 - [macaquinho feminino](<NANDA-SALES/macaquinho-feminino>) — pasta: `macaquinho-feminino`; descrição pendente
 - [moletom feminino](<NANDA-SALES/moletom-feminino>) — pasta: `moletom-feminino`; descrição pendente
 - [mulheres de deus 365 dias](<NANDA-SALES/mulheres-de-deus-365-dias>) — pasta: `mulheres-de-deus-365-dias`; descrição pendente
@@ -85,19 +87,19 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 
 ## Alertas de organização
 
-- Títulos repetidos: **2 grupos**.
+- Títulos repetidos: **3 grupos**.
+  - Banhos e Ervas na Força dos Orixás: `MAIA/1734189767118783667-banho-de-ervas`, `MAIA/banhos-e-ervas-na-forca-dos-orixas`
   - Kit 3, 2 ou 1 unidade Blusa Feminina Manga Longa Cacharrel Com Gola Alta Sueter Em Ribana Premium: `NANDA-SALES/blusa-feminina-manga-longa-gola-alta-ribana`, `NANDA-SALES/kit-1-2-3-blusas-cacharrel-gola-alta-ribana-premium`
   - KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral Larga Conforto Lingerie: `NANDA-SALES/kit-calcinha-calcola-cintura-alta-lisa-redutora`, `NANDA-SALES/kit-calcinha-cintura-alta-zero-culote`
 - Pastas fora do padrão kebab-case: **1**.
   - `NANDA-SALES/1737138048260933494-calça-cintura-alta-academia`
-- Produtos sem `descricao-produto.txt`: **13**.
-  - `MAIA-MACUMBA/pulseira-sete-nos`
+- Produtos sem `descricao-produto.txt`: **12**.
+  - `MAIA/pulseira-sete-nos`
   - `NANDA-SALES/calca-feminina`
   - `NANDA-SALES/conjunto-cropped-shorts-purple-summer`
   - `NANDA-SALES/garrafa-termica-650ml`
   - `NANDA-SALES/kit-6-ou-12-pares-meias-cano-curto`
   - `NANDA-SALES/kit-caneca-bandeja-pequeno-principe`
-  - `NANDA-SALES/livros`
   - `NANDA-SALES/macaquinho-feminino`
   - `NANDA-SALES/moletom-feminino`
   - `NANDA-SALES/mulheres-de-deus-365-dias`

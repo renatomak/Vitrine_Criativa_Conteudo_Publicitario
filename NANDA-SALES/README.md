@@ -10,5 +10,4 @@ Referências visuais:
 - [Rosto](Modelo-IA/nanda-rosto.jpeg)
 - [Look casual](Modelo-IA/modelo-look-casual.jpeg)
 
-Artigos religiosos de matriz africana e o acervo espiritual relacionado ficam com a [Maia](../MAIA-MACUMBA/README.md).
-
+Artigos religiosos de matriz africana e o acervo espiritual relacionado ficam com a [Maia](../MAIA/README.md).
