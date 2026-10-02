@@ -9,7 +9,13 @@ foreach ($layout in $layouts) {
     $root = Join-Path $projectRoot $layout.Caminho
     if (Test-Path -LiteralPath $root -PathType Container) {
         foreach ($directory in Get-ChildItem -LiteralPath $root -Directory | Sort-Object Name) {
-            if ($directory.Name -in @('ModeloIA', 'Modelo-IA')) { continue }
+            if ($directory.Name -in @('ModeloIA', 'Modelo-IA', 'Maia-Fotos')) { continue }
+            if ($directory.Name -eq 'livros') {
+                foreach ($book in Get-ChildItem -LiteralPath $directory.FullName -Directory) {
+                    [PSCustomObject]@{ Personagem = $layout.Personagem; Directory = $book; CaminhoRelativo = "$($layout.Caminho)/livros/$($book.Name)" }
+                }
+                continue
+            }
             [PSCustomObject]@{
                 Personagem = $layout.Personagem
                 Directory = $directory

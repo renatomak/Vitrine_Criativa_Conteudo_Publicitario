@@ -6,6 +6,12 @@ influencer e produto.
 Para localizar rapidamente um item, consulte o
 [Catálogo de Produtos](CATALOGO-PRODUTOS.md).
 
+Abra `CATALOGO-PRODUTOS.html` no navegador para pesquisar por nome, ID ou link,
+filtrar por influencer e copiar códigos. A tabela `CATALOGO-PRODUTOS.csv`
+também pode ser aberta no Excel. Atualize as versões com
+`./scripts/atualizar-catalogo.ps1`. IDs ausentes aparecem como pendentes;
+pastas com o mesmo ID são sinalizadas, sem consolidação automática.
+
 ## Organização atual do acervo
 
 Os cadastros existentes estão em `MAIA-MACUMBA/` e `NANDA-SALES/`.

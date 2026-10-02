@@ -32,7 +32,9 @@ $records = @(foreach ($folder in $productFolders) {
         Titulo = $title
         CaminhoRelativo = $folder.CaminhoRelativo
         TemDescricao = Test-Path -LiteralPath (Join-Path $directory.FullName 'descricao-produto.txt')
-        TikTokId = @($metadata.fontes | Where-Object plataforma -eq 'tiktok-shop' | Select-Object -First 1).produto_id
+        TikTokId = (@(& (Join-Path $PSScriptRoot 'obter-ids-produto.ps1') -Directory $directory -Metadata $metadata) -join ', ')
+        Aliases = @($metadata.aliases)
+        Categoria = [string]$metadata.categoria
     }
 })
 
@@ -72,6 +74,14 @@ foreach ($record in $invalidFolders) { $lines.Add("  - ``$($record.CaminhoRelati
 $lines.Add("- Produtos sem ``descricao-produto.txt``: **$($missingDescriptions.Count)**.")
 foreach ($record in $missingDescriptions) { $lines.Add("  - ``$($record.CaminhoRelativo)``") }
 
+$missingIds = @($records | Where-Object { -not $_.TikTokId })
+$lines.Add("- Cadastros sem ID localizado: **$($missingIds.Count)**.")
+foreach ($record in $missingIds) { $lines.Add("  - $($record.Titulo): ``$($record.CaminhoRelativo)``") }
+$idRows = @(foreach ($record in $records) { foreach ($id in ($record.TikTokId -split ', ' | Where-Object { $_ })) { [PSCustomObject]@{ Id = $id; Caminho = $record.CaminhoRelativo } } })
+foreach ($duplicate in $idRows | Group-Object Id | Where-Object Count -gt 1) { $lines.Add("- ID em múltiplas pastas: ``$($duplicate.Name)`` — $($duplicate.Group.Caminho -join ', ')") }
 Set-Content -LiteralPath $catalogPath -Value $lines -Encoding utf8
+$records | Export-Csv -LiteralPath (Join-Path $projectRoot 'CATALOGO-PRODUTOS.csv') -NoTypeInformation -Encoding utf8
+$records | ConvertTo-Json -Depth 5 | Set-Content -LiteralPath (Join-Path $projectRoot 'CATALOGO-PRODUTOS.json') -Encoding utf8
+& (Join-Path $PSScriptRoot 'gerar-catalogo-visual.ps1') -Records $records
 Write-Output "Catálogo atualizado: $catalogPath"
 Write-Output "Produtos: $($records.Count) | Grupos repetidos: $($duplicateTitles.Count) | Descrições pendentes: $($missingDescriptions.Count)"
