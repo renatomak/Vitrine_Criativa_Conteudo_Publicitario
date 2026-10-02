@@ -1,9 +1,34 @@
 [
   {
     "Personagem": "maia",
+    "Pasta": "1734189767118783667-banho-de-ervas",
+    "Titulo": "Banhos e Ervas na Força dos Orixás",
+    "CaminhoRelativo": "MAIA/1734189767118783667-banho-de-ervas",
+    "TemDescricao": true,
+    "TikTokId": "1734189767118783667",
+    "Aliases": [
+      "Banhos e Ervas na Forca dos Orixas",
+      "Banhos e Ervas na Força dos Orixás - Claudia Souto e Paulo Augusto"
+    ],
+    "Categoria": "livros"
+  },
+  {
+    "Personagem": "maia",
+    "Pasta": "1734909017686902526-buzios-naturais-artesanato",
+    "Titulo": "Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah",
+    "CaminhoRelativo": "MAIA/1734909017686902526-buzios-naturais-artesanato",
+    "TemDescricao": true,
+    "TikTokId": "1734909017686902526",
+    "Aliases": [
+      null
+    ],
+    "Categoria": ""
+  },
+  {
+    "Personagem": "maia",
     "Pasta": "1736184832898271096-kit-3-alfazema-1l",
     "Titulo": "kit 3 Alfazema de 1 L",
-    "CaminhoRelativo": "MAIA-MACUMBA/1736184832898271096-kit-3-alfazema-1l",
+    "CaminhoRelativo": "MAIA/1736184832898271096-kit-3-alfazema-1l",
     "TemDescricao": true,
     "TikTokId": "1736184832898271096",
     "Aliases": [
@@ -13,9 +38,23 @@
   },
   {
     "Personagem": "maia",
+    "Pasta": "1736560719464400837-quadros-decorativos-orixas",
+    "Titulo": "Quadro Decorativo Orixás Iemanjá Oxum e Iansã Mosaico Sala Grande Envio Rápido Pronta Entrega",
+    "CaminhoRelativo": "MAIA/1736560719464400837-quadros-decorativos-orixas",
+    "TemDescricao": true,
+    "TikTokId": "1736560719464400837",
+    "Aliases": [
+      "Quadro decorativo orixás",
+      "Kit 3 quadros Iemanjá Iansã e Oxum",
+      "Quadro mosaico orixás 120x60 cm"
+    ],
+    "Categoria": "Decoração / Quadros decorativos de orixás"
+  },
+  {
+    "Personagem": "maia",
     "Pasta": "alfazema-1l-banhos-limpeza-ambiente",
     "Titulo": "Alfazema de 1L Para Banhos e Limpeza de Ambiente",
-    "CaminhoRelativo": "MAIA-MACUMBA/alfazema-1l-banhos-limpeza-ambiente",
+    "CaminhoRelativo": "MAIA/alfazema-1l-banhos-limpeza-ambiente",
     "TemDescricao": true,
     "TikTokId": "1736184794105939832",
     "Aliases": [
@@ -28,7 +67,7 @@
     "Personagem": "maia",
     "Pasta": "alfazema-rosa-negra",
     "Titulo": "Alfazema Rosa Negra - Deo Colônia - Uso Diário",
-    "CaminhoRelativo": "MAIA-MACUMBA/alfazema-rosa-negra",
+    "CaminhoRelativo": "MAIA/alfazema-rosa-negra",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -38,11 +77,11 @@
   },
   {
     "Personagem": "maia",
-    "Pasta": "buzios-naturais-artesanato",
-    "Titulo": "Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah",
-    "CaminhoRelativo": "MAIA-MACUMBA/buzios-naturais-artesanato",
+    "Pasta": "banhos-e-ervas-na-forca-dos-orixas",
+    "Titulo": "Banhos e Ervas na Força dos Orixás",
+    "CaminhoRelativo": "MAIA/banhos-e-ervas-na-forca-dos-orixas",
     "TemDescricao": true,
-    "TikTokId": "1734909017686902526",
+    "TikTokId": "1734189767118783667",
     "Aliases": [
       null
     ],
@@ -52,7 +91,7 @@
     "Personagem": "maia",
     "Pasta": "fio-pedra-natural-8mm-45-bolinhas",
     "Titulo": "Fio de Pedra Natural 8MM - Aproximadamente 45 Bolinhas para Japamalas Pulseiras Colares e Terços Qualidade e Beleza",
-    "CaminhoRelativo": "MAIA-MACUMBA/fio-pedra-natural-8mm-45-bolinhas",
+    "CaminhoRelativo": "MAIA/fio-pedra-natural-8mm-45-bolinhas",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -64,7 +103,7 @@
     "Personagem": "maia",
     "Pasta": "guia-fio-de-contas-exu-pombagira",
     "Titulo": "Guia Fio de Contas Exu e Pombagira Colar Religioso Umbanda Candomblé com e sem firma",
-    "CaminhoRelativo": "MAIA-MACUMBA/guia-fio-de-contas-exu-pombagira",
+    "CaminhoRelativo": "MAIA/guia-fio-de-contas-exu-pombagira",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -76,7 +115,7 @@
     "Personagem": "maia",
     "Pasta": "guia-fio-de-contas-malandro-com-firma",
     "Titulo": "Guia Fio de Contas Malandro com Firma Colar Religioso Maria Mariah",
-    "CaminhoRelativo": "MAIA-MACUMBA/guia-fio-de-contas-malandro-com-firma",
+    "CaminhoRelativo": "MAIA/guia-fio-de-contas-malandro-com-firma",
     "TemDescricao": true,
     "TikTokId": "1735042380243502846",
     "Aliases": [
@@ -90,7 +129,7 @@
     "Personagem": "maia",
     "Pasta": "guia-fio-de-contas-preto-roxo",
     "Titulo": "Guia Fio de Contas Preto e Roxo | Pombagira Maria Mulambo",
-    "CaminhoRelativo": "MAIA-MACUMBA/guia-fio-de-contas-preto-roxo",
+    "CaminhoRelativo": "MAIA/guia-fio-de-contas-preto-roxo",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -102,7 +141,7 @@
     "Personagem": "maia",
     "Pasta": "guia-pomba-gira-rosas-65cm",
     "Titulo": "Guia Fio de Contas Pomba Gira com Rosas — 65 cm",
-    "CaminhoRelativo": "MAIA-MACUMBA/guia-pomba-gira-rosas-65cm",
+    "CaminhoRelativo": "MAIA/guia-pomba-gira-rosas-65cm",
     "TemDescricao": true,
     "TikTokId": "1733611654706268002",
     "Aliases": [
@@ -114,7 +153,7 @@
     "Personagem": "maia",
     "Pasta": "incensos-bhakti-aromas-variados",
     "Titulo": "Kit 70 Incenso Indiano Várias Fragrâncias 10 Caixas 70 Varetas Limpeza de Ambiente e Espiritualidade",
-    "CaminhoRelativo": "MAIA-MACUMBA/incensos-bhakti-aromas-variados",
+    "CaminhoRelativo": "MAIA/incensos-bhakti-aromas-variados",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -126,7 +165,7 @@
     "Personagem": "maia",
     "Pasta": "kit-3-quadros-decorativos-orixas",
     "Titulo": "quadro decorativo orixás umbanda religião decoração quarto sala hall",
-    "CaminhoRelativo": "MAIA-MACUMBA/kit-3-quadros-decorativos-orixas",
+    "CaminhoRelativo": "MAIA/kit-3-quadros-decorativos-orixas",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -138,7 +177,7 @@
     "Personagem": "maia",
     "Pasta": "kit-3-quadros-decorativos-salve-nossos-orixas",
     "Titulo": "quadro decorativo salve nossos orixás religião",
-    "CaminhoRelativo": "MAIA-MACUMBA/kit-3-quadros-decorativos-salve-nossos-orixas",
+    "CaminhoRelativo": "MAIA/kit-3-quadros-decorativos-salve-nossos-orixas",
     "TemDescricao": true,
     "TikTokId": "1733382319257126800",
     "Aliases": [
@@ -150,7 +189,7 @@
     "Personagem": "maia",
     "Pasta": "kit-50-incensos-cone-backflow",
     "Titulo": "50 Incensos Backflow Cone Sortidos Cascata de Fumaça",
-    "CaminhoRelativo": "MAIA-MACUMBA/kit-50-incensos-cone-backflow",
+    "CaminhoRelativo": "MAIA/kit-50-incensos-cone-backflow",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -162,7 +201,7 @@
     "Personagem": "maia",
     "Pasta": "livro-rezas-mandingas-preto-velho",
     "Titulo": "Livro Rezas e Mandingas de Preto Velho",
-    "CaminhoRelativo": "MAIA-MACUMBA/livro-rezas-mandingas-preto-velho",
+    "CaminhoRelativo": "MAIA/livro-rezas-mandingas-preto-velho",
     "TemDescricao": true,
     "TikTokId": "",
     "Aliases": [
@@ -174,7 +213,7 @@
     "Personagem": "maia",
     "Pasta": "pulseira-olho-de-tigre-onix-hematita-18cm",
     "Titulo": "Pulseira de Pedra Natural — Olho de Tigre, Ônix e Hematita",
-    "CaminhoRelativo": "MAIA-MACUMBA/pulseira-olho-de-tigre-onix-hematita-18cm",
+    "CaminhoRelativo": "MAIA/pulseira-olho-de-tigre-onix-hematita-18cm",
     "TemDescricao": true,
     "TikTokId": "1733177436961080917",
     "Aliases": [
@@ -186,7 +225,7 @@
     "Personagem": "maia",
     "Pasta": "pulseira-sete-nos",
     "Titulo": "pulseira sete nos",
-    "CaminhoRelativo": "MAIA-MACUMBA/pulseira-sete-nos",
+    "CaminhoRelativo": "MAIA/pulseira-sete-nos",
     "TemDescricao": false,
     "TikTokId": "",
     "Aliases": [
@@ -745,18 +784,6 @@
     "CaminhoRelativo": "NANDA-SALES/kit-shorts-segunda-pele",
     "TemDescricao": true,
     "TikTokId": "",
-    "Aliases": [
-      null
-    ],
-    "Categoria": ""
-  },
-  {
-    "Personagem": "nanda",
-    "Pasta": "banhos-e-ervas-na-forca-dos-orixas",
-    "Titulo": "Banhos e Ervas na Força dos Orixás",
-    "CaminhoRelativo": "NANDA-SALES/livros/banhos-e-ervas-na-forca-dos-orixas",
-    "TemDescricao": true,
-    "TikTokId": "1734189767118783667",
     "Aliases": [
       null
     ],

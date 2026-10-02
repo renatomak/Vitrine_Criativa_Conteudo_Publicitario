@@ -14,8 +14,8 @@ pastas com o mesmo ID são sinalizadas, sem consolidação automática.
 
 ## Organização atual do acervo
 
-Os cadastros existentes estão em `MAIA-MACUMBA/` e `NANDA-SALES/`.
-As referências das personagens estão em `MAIA-MACUMBA/ModeloIA/` e
+Os cadastros existentes estão em `MAIA/` e `NANDA-SALES/`.
+As referências das personagens estão em `MAIA/Maia-Fotos/` e
 `NANDA-SALES/Modelo-IA/`. O catálogo e o localizador reconhecem essas
 pastas e também a estrutura `produtos/maia/` e `produtos/nanda/`.
 Os caminhos existentes são preservados; a estrutura abaixo é a orientação
@@ -110,7 +110,7 @@ produtos/
 
 ## Influencers e organização
 
-- [Maia](MAIA-MACUMBA/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
+- [Maia](MAIA/README.md): artigos de religiões de matriz africana e acervo espiritual relacionado.
 - [Nanda](NANDA-SALES/README.md): influencer de IA com perfil mais evangélico, responsável pelos demais produtos.
 
 As pastas dos produtos ficam diretamente dentro de cada influencer. O campo
@@ -147,4 +147,3 @@ de anúncios.
 ## Referências de unhas
 
 A coleção possui 52 imagens organizadas. Consulte o [índice de unhas](referencias/unhas-artisticas-alongadas/README.md).
-
