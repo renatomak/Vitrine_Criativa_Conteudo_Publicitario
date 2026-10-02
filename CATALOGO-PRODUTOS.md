@@ -1,8 +1,12 @@
 # Catálogo de Produtos
 
-Total: **75 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **76 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
+
+## influencer-03
+
+- [Kit 5 Cuecas Masculinas Slip Microfibra Lupo](<influencer-03/1736229272479761896-coeca-lupo>) — pasta: `1736229272479761896-coeca-lupo`; TikTok: `1736229272479761896`
 
 ## maia
 

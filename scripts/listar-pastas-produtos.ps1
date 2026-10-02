@@ -2,6 +2,8 @@ $projectRoot = Split-Path -Parent $PSScriptRoot
 $layouts = @(
     @{ Personagem = 'maia'; Caminho = 'produtos/maia' },
     @{ Personagem = 'nanda'; Caminho = 'produtos/nanda' },
+    @{ Personagem = 'influencer-03'; Caminho = 'produtos/influencer-03' },
+    @{ Personagem = 'influencer-03'; Caminho = 'influencer-03' },
     @{ Personagem = 'maia'; Caminho = 'MAIA' },
     @{ Personagem = 'maia'; Caminho = 'MAIA-MACUMBA' },
     @{ Personagem = 'nanda'; Caminho = 'NANDA-SALES' }
