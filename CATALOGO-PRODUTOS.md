@@ -1,6 +1,6 @@
 # Catálogo de Produtos
 
-Total: **76 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
+Total: **77 produtos**. Este arquivo é gerado por `scripts/atualizar-catalogo.ps1`.
 
 Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio, execute `scripts/localizar-produto.ps1` com o título ou link completo.
 
@@ -32,6 +32,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 
 ## nanda
 
+- [KIt 10 Cuecas Masculina Básica Slip Algodão](<NANDA-SALES/1734222180790994828-kit-cuecas-slip>) — pasta: `1734222180790994828-kit-cuecas-slip`; TikTok: `1734222180790994828`
 - [Blusa Manga Longa Feminina Segunda Pele com Gola Alta](<NANDA-SALES/1736451832883480352-blusa-feminina-manga-longa-plus-size>) — pasta: `1736451832883480352-blusa-feminina-manga-longa-plus-size`; TikTok: `1736451832883480352`
 - [CALÇA FLARE BAILARINA FEMININA CINTURA ALTA EM SUPLEX PARA ACADEMIA, PILATES E USO DIÁRIO KARFOS - RP MODAS](<NANDA-SALES/1737138048260933494-calça-cintura-alta-academia>) — pasta: `1737138048260933494-calça-cintura-alta-academia`; TikTok: `1737138048260933494`
 - [365 Hábitos Simples e Poderosos](<NANDA-SALES/365-habitos-simples-e-poderosos>) — pasta: `365-habitos-simples-e-poderosos`; TikTok: `1732162539837097445`
