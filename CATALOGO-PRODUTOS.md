@@ -12,7 +12,7 @@ Use a busca deste arquivo para localizar um nome. Antes de cadastrar um anúncio
 
 - [Banhos e Ervas na Força dos Orixás](<MAIA/1734189767118783667-banho-de-ervas>) — pasta: `1734189767118783667-banho-de-ervas`; TikTok: `1734189767118783667`
 - [Búzio Branco Aberto 30 Unidades Jogo de Búzios, Umbanda, Candomblé e Artesanato Maria Mariah](<MAIA/1734909017686902526-buzios-naturais-artesanato>) — pasta: `1734909017686902526-buzios-naturais-artesanato`; TikTok: `1734909017686902526`
-- [kit 3 Alfazema de 1 L](<MAIA/1736184832898271096-kit-3-alfazema-1l>) — pasta: `1736184832898271096-kit-3-alfazema-1l`; TikTok: `1736184832898271096`
+- [kit 3 Alfazema de 1L](<MAIA/1736184832898271096-kit-3-alfazema-1l>) — pasta: `1736184832898271096-kit-3-alfazema-1l`; TikTok: `1736184832898271096`
 - [Quadro Decorativo Orixás Iemanjá Oxum e Iansã Mosaico Sala Grande Envio Rápido Pronta Entrega](<MAIA/1736560719464400837-quadros-decorativos-orixas>) — pasta: `1736560719464400837-quadros-decorativos-orixas`; TikTok: `1736560719464400837`
 - [Alfazema de 1L Para Banhos e Limpeza de Ambiente](<MAIA/alfazema-1l-banhos-limpeza-ambiente>) — pasta: `alfazema-1l-banhos-limpeza-ambiente`; TikTok: `1736184794105939832`
 - [Alfazema Rosa Negra - Deo Colônia - Uso Diário](<MAIA/alfazema-rosa-negra>) — pasta: `alfazema-rosa-negra`
